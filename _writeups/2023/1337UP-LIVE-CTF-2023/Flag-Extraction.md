@@ -4,7 +4,7 @@ category: 1337UP LIVE CTF 2023
 chall_description: They told me I just need to extract flag but I don't know what that means?!
 points: 50
 solves: 411
-tags: rar,zip,binwalk
+tags: rar zip binwalk
 date: 2023-11-26
 comments: false
 ---
