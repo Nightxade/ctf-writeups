@@ -9,7 +9,7 @@ date: 2023-11-26
 comments: false
 ---
 They told me I just need to extract flag but I don't know what that means?!
-
+[https://github.com/Nightxade/ctf-writeups/tree/master/assets/CTFs/1337UP-LIVE-CTF-2023/flag.rar](flag.rar)
 ---
 
 After extracting the first file with an online .rar extractor, I realized that it was probably just a bunch of nested compressions/zips, given that the next file was a .tar.xz file.  
