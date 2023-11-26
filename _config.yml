@@ -11,7 +11,7 @@ google_analytics: # Your Google Analytics Tracking ID
 htb_badge_no: # Go to the HackTheBox site and copy your ID
 thm_badge_no: # Go to https://tryhackme.com/profile -> Public Profile -> Get Badge ID
 show_thm_htb_badges_in_nav: false
-github_username: Matthew C++
+github_username: Nightxade
 gitlab:
 medium:
 stackoverflow:
