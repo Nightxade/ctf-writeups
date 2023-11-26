@@ -5,5 +5,5 @@ category: 1337UP-LIVE-CTF-2023
 date: 2023-11-26
 ---
 
-[<img src="https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/ctftime-logo.png">](https://ctftime.org/event/2134)
+[<img src="https://i.imgur.com/IrWa2YG.png">](https://ctftime.org/event/2134)
 
