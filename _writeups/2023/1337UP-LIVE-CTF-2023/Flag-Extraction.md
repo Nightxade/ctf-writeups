@@ -1,7 +1,7 @@
 ---
 layout: writeup
 category: 1337UP LIVE CTF 2023
-chall_description: They told me I just need to extract flag but I don't know what that means?!
+chall_description: https://imgur.com/fFTBKl5
 points: 50
 solves: 411
 tags: rar zip binwalk
