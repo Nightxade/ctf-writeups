@@ -1,8 +1,8 @@
 remote_theme: CaptainIRS/hacker-plus-theme
 
-title:
-author:
-description: 
+title: "Nightxade: CTF Writeups"
+author: Nightxade
+description: Just a place for me to publish some of my CTF writeups | Hope they help someone :)
 disqus_forum_shortname:
 google_site_verification_content: # The 'content' tag for site verification
 google_analytics: # Your Google Analytics Tracking ID
@@ -11,7 +11,7 @@ google_analytics: # Your Google Analytics Tracking ID
 htb_badge_no: # Go to the HackTheBox site and copy your ID
 thm_badge_no: # Go to https://tryhackme.com/profile -> Public Profile -> Get Badge ID
 show_thm_htb_badges_in_nav: false
-github_username: 
+github_username: Matthew C++
 gitlab:
 medium:
 stackoverflow:
