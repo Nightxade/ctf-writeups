@@ -10,8 +10,8 @@ comments: false
 ---
 
 My friend made a new encryption algorithm. Apparently it's so advanced, you don't even need a key!  
-[flag.txt.enc](https://github.com/Nightxade/ctf-writeups/assets/CTFs/1337-UP-LIVE-CTF-2023/flag.txt.enc)  
-[encrypt.py](https://github.com/Nightxade/ctf-writeups/assets/CTFs/1337-UP-LIVE-CTF-2023/encrypt.py)  
+[flag.txt.enc](https://github.com/Nightxade/ctf-writeups/assets/CTFs/1337-UP-LIVE-CTF-2023/flag.txt.enc)
+[encrypt.py](https://github.com/Nightxade/ctf-writeups/assets/CTFs/1337-UP-LIVE-CTF-2023/encrypt.py)
 
 ---
 
