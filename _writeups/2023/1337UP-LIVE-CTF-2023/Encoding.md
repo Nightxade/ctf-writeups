@@ -1,7 +1,7 @@
 ---
 layout: writeup
 category: 1337UP-LIVE-CTF-2023
-chall_description: https://i.imgur.com/fFTBKl5.png
+chall_description: https://i.imgur.com/gf0Chx2.png
 points: 50
 solves: 398
 tags: warmup encoding base32 base64 hex morse
