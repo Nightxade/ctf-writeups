@@ -1,6 +1,6 @@
 ---
 layout: writeup
-category: 1337UP LIVE CTF 2023
+category: 1337UP-LIVE-CTF-2023
 chall_description: https://i.imgur.com/RrFt3ll.png
 points: 408
 solves: 49
