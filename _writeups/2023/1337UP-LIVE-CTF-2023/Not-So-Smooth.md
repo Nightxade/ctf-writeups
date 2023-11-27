@@ -100,7 +100,7 @@ But here was the final math I did to get the solution:
 
 ```py
 pow(u,a,p) = ( (A * (1 - u) - v) * pow(w - wu - v, -1, p) ) % p
-Substitute this into the equation for key to get the flag!  
+# Substitute this into the equation for key to get the flag!  
 ```
 
 Once, we have the key, a simple strxor() to decrypt returns our flag :)  
