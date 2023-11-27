@@ -4,7 +4,7 @@ category: 1337UP-LIVE-CTF-2023
 chall_description: https://i.imgur.com/ApxDiNo.png
 points: 100
 solves: 201
-tags: crypto rev
+tags: crypto rsa wiener
 date: 2023-11-26
 comments: false
 ---
