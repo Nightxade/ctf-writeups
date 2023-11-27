@@ -1,7 +1,7 @@
 ---
 layout: writeup
 category: 1337UP-LIVE-CTF-2023
-chall_description: hhttps://i.imgur.com/SL6Mbla.png
+chall_description: https://i.imgur.com/SL6Mbla.png
 points: 50
 solves: 251
 tags: warmup network wireshark ftp
