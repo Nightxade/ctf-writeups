@@ -5,7 +5,7 @@ category: 1337UP-LIVE-CTF-2023
 date: 2023-11-26
 ---
 
-[<img src="https://i.imgur.com/IrWa2YG.png" style="width: 20px; height: 20px;">](https://ctftime.org/event/2134)
+[<img src="https://i.imgur.com/uy5UiUd.png" style="width: 20px; height: 20px;">](https://ctftime.org/event/2134)
 
 Placement: #133/691  
 
