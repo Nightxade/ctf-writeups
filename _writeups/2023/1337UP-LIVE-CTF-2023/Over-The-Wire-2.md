@@ -15,7 +15,7 @@ Learning the lessons from the previous failed secure file transfer attempts, Cry
 ---
 
 We're given a PCAP file. Similar to Over the Wire 1, let's Ctrl+F for some strings in hopes of finding something. I eventually ended up looking for 'share' because of its inclusion in the problem description, which returned the following SMTP/IMF packet (email).  
----
+
     Hi CryptoCat,
 
     It's been a long time since we last saw each other, and I've been thinking about our friendship. I believe it's important for us to stay connected and share important things in a way that only you and I can understand.
@@ -28,9 +28,9 @@ We're given a PCAP file. Similar to Over the Wire 1, let's Ctrl+F for some strin
 
     Best,
     0xM4hm0ud
----
+
 From this, I realized that these two were definitely communicating via email. I filtered for 'imf' packets (since SMTP referred to other packets related to emails), and got the following packets:  
----
+
     Hey 0xM4hm0ud,
 
     It's great to hear from you! I completely agree that we should keep our conversations private and intriguing. Our special bond deserves nothing less. I'm up for the challenge!
@@ -50,17 +50,17 @@ From this, I realized that these two were definitely communicating via email. I 
     Let me know as soon as possible! 
 
     0xM4hm0ud
----
+
 (This one had a JPG file attached, encoded in base64)
 
 
----
+
     Hey 0xM4hm0ud,
 
     I love all kind of cats, but I prefer this cat. 
 
     CryptoCat
----
+
 (This one had a PNG file attached, encoded in base64)
 
 I wrote a short python script to create the files locally:  
