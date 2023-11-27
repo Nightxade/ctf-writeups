@@ -9,7 +9,7 @@ date: 2023-11-26
 comments: false
 ---
 
-Can you find a and b?
+Can you find a and b?  
 [notsosmooth.py](https://github.com/Nightxade/ctf-writeups/tree/master/assets/CTFs/1337UP-LIVE-CTF-2023/notsosmooth.py)
 
 ---
