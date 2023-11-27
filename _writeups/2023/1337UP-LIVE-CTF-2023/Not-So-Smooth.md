@@ -11,10 +11,11 @@ comments: false
 
 Can you find a and b?
 [notsosmooth.py](https://github.com/Nightxade/ctf-writeups/tree/master/assets/CTFs/1337UP-LIVE-CTF-2023/notsosmooth.py)
+
 ---
 
 We're given the following:
-```
+```py
 from Crypto.Util.number import long_to_bytes
 from Crypto.Util.strxor import strxor
 from random import randint
@@ -65,7 +66,7 @@ After analysis, the *pow(1 - u, -1, p)* seemed the most suspicious to me. Why is
 
 I decided that, maybe I should try to get rid of this. It is easy to get rid of this by simply multiplying *f(x, n)* by *1 - u*, as the entire expression is already taken mod *p*. I then simplified and factored in the following process:  
 
-```
+```py
 f(x, n) = (pow(u,n,p)*x + v*(1-pow(u,n,p))*pow(1-u, -1, p)) % p
 f(x, n) * (1 - u) = (pow(u,n,p)*x*(1-u) + v*(1-pow(u,n,p))*1) % p
 f(x, n) * (1 - u) = ( (pow(u,n,p)) * (x - xu - v) + v) ) % p
@@ -84,7 +85,7 @@ Both *A* and *key* involve the same value of *n*. I thought that was perhaps mor
 
 Therefore, I rewrote my equations for *A* and *key* with the expression I had proved earlier.  
 
-```
+```py
 A = f(w, a) = ( ( (pow(u,a,p)) * (w - wu - v) + v) ) % p ) / (1 - u)
 key = f(B, a) = ( ( (pow(u,a,p)) * (B - Bu - v) + v) ) % p ) / (1 - u)
 ```
@@ -97,7 +98,7 @@ Also x2, you don't even have to directly solve for *pow(u,a,p)*. It's actually p
 
 But here was the final math I did to get the solution:  
 
-```
+```py
 pow(u,a,p) = ( (A * (1 - u) - v) * pow(w - wu - v, -1, p) ) % p
 Substitute this into the equation for key to get the flag!  
 ```
@@ -107,7 +108,7 @@ Once, we have the key, a simple strxor() to decrypt returns our flag :)
 	INTIGRITI{1e863724be1ea6d3e}
 
 Implementation of the above:  
-```
+```py
 modinv = pow(1-u, -1, p)
 ap = ((A * ((1 - u) % p) - v) * pow(w - w * u - v, -1, p)) % p
 k = (ap * B + v * (1 - ap) * (modinv)) % p
