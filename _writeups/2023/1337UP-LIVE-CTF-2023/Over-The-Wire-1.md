@@ -9,7 +9,7 @@ date: 2023-11-27
 comments: false
 ---
 
-I'm not sure how secure this protocol is but as long as we update the password, I'm sure everything will be fine 😊
+I'm not sure how secure this protocol is but as long as we update the password, I'm sure everything will be fine 😊  
 [otw_pt1.pcapng](https://github.com/Nightxade/ctf-writeups/tree/master/assets/CTFs/1337UP-LIVE-CTF-2023/otw_pt1.pcapng)
 
 
