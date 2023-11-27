@@ -27,7 +27,7 @@ int o_a8d9bf17d390687c168fe26f2c3a58b1[]={42, 77, 3, 8, 69, 86, 60, 99, 50, 76, 
 Wow, that's a mess to read!  
 First things first, I tried looking up a C deobfuscator. No good results... looks like I'll have to do this by hand!  
 
-By replacing variable names using (http://www.unit-conversion.info/texttools/replace-text/), formatting the code, and replacing most weird ints and strings, I ended up with this:  
+By replacing variable names using [](http://www.unit-conversion.info/texttools/replace-text/), formatting the code, and replacing most weird ints and strings, I ended up with this:  
 *(Note to self -- why not automate this with Python??)*  
 ```c
 #include <stdio.h>
