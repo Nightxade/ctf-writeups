@@ -66,9 +66,9 @@ So this flag checker program seems to check all 22 characters of the flag throug
 
 There are only a couple things to keep in mind when you do brute force:
 
-    Binary &'s are irreversible. This makes equations with & complicated, so try to avoid them! If you do have to brute force them, keep in mind that the value you find might not actually be correct, as binary &'s can result in multiple different values working for a single equation.
-    Operator precedence! See https://www.programiz.com/python-programming/precedence-associativity. Some key things to note are that XOR (^) and AND (&) are always lower precedence than the usual +,-,*,/ operators.
-    Always look for equations in which we know all variables except one! Keep in mind we know flag[0-9] and flag[21], which helps us start out on our brute force journey.  
+*   Binary &'s are irreversible. This makes equations with & complicated, so try to avoid them! If you do have to brute force them, keep in mind that the value you find might not actually be correct, as binary &'s can result in multiple different values working for a single equation.
+*   Operator precedence! See https://www.programiz.com/python-programming/precedence-associativity. Some key things to note are that XOR (^) and AND (&) are always lower precedence than the usual +,-,*,/ operators.
+*   Always look for equations in which we know all variables except one! Keep in mind we know flag[0-9] and flag[21], which helps us start out on our brute force journey.  
 
 And that's it! A simple reformatting of the program and brute force should work!  
 
