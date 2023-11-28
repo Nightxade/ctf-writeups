@@ -2,7 +2,7 @@
 layout: ctf_overview
 title: picoCTF
 category: picoCTF
-date: 9999
+date: 2024-11-27
 ---
 
 [picoCTF](https://picoctf.org/)  
