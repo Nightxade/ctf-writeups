@@ -11,12 +11,12 @@ comments: false
 
 Download this disk image, find the key and log into the remote machine.  
 Note: if you are using the webshell, download and extract the disk image into /tmp not your home directory.  
-[Download disk image](https://github.com/Nightxade/ctf-writeups/tree/master/assets/CTFs/picoCTF/onidisk.img.gz)
-Remote machine: ssh -i key_file -p [port #] ctf-player@saturn.picoctf.net
+[Download disk image](https://github.com/Nightxade/ctf-writeups/tree/master/assets/CTFs/picoCTF/onidisk.img.gz)  
+Remote machine: ssh -i key_file -p [port #] ctf-player@saturn.picoctf.net  
 
 ---
 
-We are given a file `disk.img.gz`
+We are given a file `disk.img.gz`  
 The `.gz` file extension indicates that the file is a gzip compressed file → `gunzip disk.img.gz` decompresses the file  
 *SleuthKit* is a useful tool for disk forensics  
 `mmls disk.img`
