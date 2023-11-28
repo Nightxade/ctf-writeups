@@ -96,7 +96,7 @@ apk --help
 apk add nano
 nano flag.txt 
 openssl
-<b>openssl aes256 -salt -in flag.txt -out flag.txt.enc -k unbreakablepassword1234567**</b>
+<b>openssl aes256 -salt -in flag.txt -out flag.txt.enc -k unbreakablepassword1234567</b>
 shred -u flag.txt
 ls -al
 halt
