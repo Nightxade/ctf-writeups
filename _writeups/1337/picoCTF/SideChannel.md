@@ -2,6 +2,7 @@
 layout: writeup
 category: picoCTF
 chall_description: https://i.imgur.com/DxIdXVH.png
+points: 400
 solves: 1949
 tags: forensics side-channel timing
 date: 1337-11-27
@@ -29,15 +30,15 @@ Thus, we can create a simple python program for this:
 3. Set up a for loop that traverses through all the positions of the PIN.  
     3.1. Create variables for the maximum time taken and a number corresponding to that max time. Initialize max_time to 0 or a small enough number.  
     3.2. Now, we’ll set up a for loop to test all possible digits in that one position.  
-        3.2.1. Create the input  
-        3.2.2. Execute pin_checker with receiving standard input  
-        3.2.3. Start timing  
-        3.2.4. Send input to stdin and record output and error.  
-        3.2.5. End timing  
-        3.2.6. Check if the duration of time is greater than the current maximum duration  
-        3.2.7. If yes, change `max_time` and `max_num`.  
-        3.2.8. Check if the byte string `Access denied` is in the output.  
-        3.2.9. If no, print out the input because this is our desired PIN and set the flag to `True` to break out of the while loop.  
+    . . 3.2.1. Create the input  
+    . . 3.2.2. Execute pin_checker with receiving standard input  
+    . . 3.2.3. Start timing  
+    . . 3.2.4. Send input to stdin and record output and error.  
+    . . 3.2.5. End timing  
+    . . 3.2.6. Check if the duration of time is greater than the current maximum duration  
+    . . 3.2.7. If yes, change `max_time` and `max_num`.  
+    . . 3.2.8. Check if the byte string `Access denied` is in the output.  
+    . . 3.2.9. If no, print out the input because this is our desired PIN and set the flag to `True` to break out of the while loop.  
 
 ```py
 import subprocess
