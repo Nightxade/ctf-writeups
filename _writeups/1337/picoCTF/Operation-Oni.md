@@ -132,7 +132,7 @@ This is telling us that `private_key`’s access permissions are too open since 
 ```ssh -i private_key -p [port #] ctf-player@saturn.picoctf.net``` now gets us into the file system.  
 
 <code class="language-bash">
-ls
-cat flag.txt
-picoCTF{k3y_5l3u7h_339601ed}
+ls  
+cat flag.txt  
+picoCTF{k3y_5l3u7h_339601ed}  
 </code>
