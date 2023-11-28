@@ -135,9 +135,7 @@ This is telling us that `private_key`’s access permissions are too open since 
   class="command-line" 
   data-prompt="kali@kali $" 
   data-output="3"
-><code class="language-bash">
-ls  
+><code class="language-bash">ls  
 cat flag.txt  
-picoCTF{k3y_5l3u7h_339601ed}  
-</code>
+picoCTF{k3y_5l3u7h_339601ed}  </code>
 </pre>
