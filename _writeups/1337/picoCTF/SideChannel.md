@@ -25,20 +25,28 @@ Note: It should make sense why we choose the option that takes the longest durat
 
 Thus, we can create a simple python program for this:  
 
-1. We’ll set up execution such that it continues until it finds the correct PIN → this is because time is usually somewhat inconsistent, so your first few tries may not return the right PIN.  
-2. Initialize the input as 00000000.  
-3. Set up a for loop that traverses through all the positions of the PIN.  
-    3.1. Create variables for the maximum time taken and a number corresponding to that max time. Initialize max_time to 0 or a small enough number.  
-    3.2. Now, we’ll set up a for loop to test all possible digits in that one position.  
-    . . 3.2.1. Create the input  
-    . . 3.2.2. Execute pin_checker with receiving standard input  
-    . . 3.2.3. Start timing  
-    . . 3.2.4. Send input to stdin and record output and error.  
-    . . 3.2.5. End timing  
-    . . 3.2.6. Check if the duration of time is greater than the current maximum duration  
-    . . 3.2.7. If yes, change `max_time` and `max_num`.  
-    . . 3.2.8. Check if the byte string `Access denied` is in the output.  
-    . . 3.2.9. If no, print out the input because this is our desired PIN and set the flag to `True` to break out of the while loop.  
+<ol>
+    <li>We’ll set up execution such that it continues until it finds the correct PIN → this is because time is usually somewhat inconsistent, so your first few tries may not return the right PIN.</li>
+    <li>Initialize the input as 00000000.</li>
+    <li>Set up a for loop that traverses through all the positions of the PIN.  
+        <ol>
+            <li>Create variables for the maximum time taken and a number corresponding to that max time. Initialize max_time to 0 or a small enough number.</li>
+            <li>Now, we’ll set up a for loop to test all possible digits in that one position.
+                <ol>
+                    <li>Create the input.</li>
+                    <li>Execute pin_checker with receiving standard input.</li>
+                    <li>Start timing.</li>
+                    <li>Send input to stdin and record output and error.</li>
+                    <li>End timing.</li>
+                    <li>Check if the duration of time is greater than the current maximum duration.</li>
+                    <li>If yes, change `max_time` and `max_num`.</li>
+                    <li>Check if the byte string `Access denied` is in the output.</li>
+                    <li>If no, print out the input because this is our desired PIN and set the flag to `True` to break out of the while loop.</li>
+                </ol>
+            </li>
+        </ol>
+    </li>
+</ol>
 
 ```py
 import subprocess
