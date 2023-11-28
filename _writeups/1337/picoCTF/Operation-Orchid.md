@@ -88,19 +88,19 @@ r/r 1782:       flag.txt.enc
 
 We have 3 files (as evidenced by the `r/r`), one of which, `flag.txt`, appears to have been removed, i.e. its memory reallocated. Let’s check out the two other files still existing.  
 `icat -o 411648 disk.flag.img 1875`  
-```
-touch flag.txt
-nano flag.txt 
-apk get nano
-apk --help
-apk add nano
-nano flag.txt 
-openssl
-**openssl aes256 -salt -in flag.txt -out flag.txt.enc -k unbreakablepassword1234567**
-shred -u flag.txt
-ls -al
-halt
-```
+
+>touch flag.txt  
+>nano flag.txt   
+>apk get nano  
+>apk --help  
+>apk add nano  
+>nano flag.txt   
+>openssl  
+>**openssl aes256 -salt -in flag.txt -out flag.txt.enc -k unbreakablepassword1234567**  
+>shred -u flag.txt  
+>ls -al  
+>halt  
+
 
 This appears to show the history of the commands executed here. As we noted previously, the `flag.txt` file was removed, as evidenced by the `shred -u flag.txt`. Meanwhile, the important (bolded) command appears to show that `flag.txt` was encrypted using the aes256 encryption scheme with the option -salt and a password of *unbreakablepassword1234567*.  
 Let’s check out the .enc file.  
