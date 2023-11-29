@@ -5,7 +5,7 @@ chall_description: https://i.imgur.com/fFTBKl5.png
 points: 50
 solves: 411
 tags: warmup rar zip binwalk
-date: 2023-11-26
+date: 2023-11-27
 comments: false
 ---
 They told me I just need to extract flag but I don't know what that means?!

@@ -2,7 +2,7 @@
 layout: ctf_overview
 title: picoCTF
 category: picoCTF
-date: 1337-11-27
+date: 1337-01-01
 ---
 
 [picoCTF](https://picoctf.org/)  

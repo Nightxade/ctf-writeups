@@ -5,7 +5,7 @@ chall_description: https://i.imgur.com/aipXq4T.png
 points: 100
 solves: 130
 tags: rev rust brute-force
-date: 2023-11-26
+date: 2023-11-27
 comments: false
 ---
 

@@ -5,7 +5,7 @@ chall_description: https://i.imgur.com/R0cMpLi.png
 points: 100
 solves: 282
 tags: crypto rev
-date: 2023-11-26
+date: 2023-11-27
 comments: false
 ---
 

@@ -5,7 +5,7 @@ chall_description: https://i.imgur.com/pLRnscS.png
 points: 250
 solves: 4165
 tags: forensics unicode binary
-date: 1337-11-27
+date: 1337-01-01
 comments: false
 ---
 

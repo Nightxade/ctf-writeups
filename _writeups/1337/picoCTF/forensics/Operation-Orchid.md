@@ -5,7 +5,7 @@ chall_description: https://i.imgur.com/r8G7mVS.png
 points: 400
 solves: 4379
 tags: forensics disk openssl
-date: 1337-11-27
+date: 1337-01-01
 comments: false
 ---
 

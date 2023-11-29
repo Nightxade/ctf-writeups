@@ -5,7 +5,7 @@ chall_description: https://i.imgur.com/4W3CcYR.png
 points: 300
 solves: 2790
 tags: forensics disk permissions
-date: 1337-11-27
+date: 1337-01-01
 comments: false
 ---
 

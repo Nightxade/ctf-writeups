@@ -5,7 +5,7 @@ chall_description: https://i.imgur.com/RrFt3ll.png
 points: 408
 solves: 49
 tags: crypto xor modular-arithmetic
-date: 2023-11-26
+date: 2023-11-27
 comments: false
 ---
 
