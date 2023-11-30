@@ -3,6 +3,7 @@ layout: ctf_overview
 title: picoCTF
 category: picoCTF
 date: 1337-01-01
+tags: picoCTF
 ---
 
 [picoCTF](https://picoctf.org/)  
