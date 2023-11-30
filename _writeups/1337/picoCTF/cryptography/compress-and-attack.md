@@ -9,7 +9,7 @@ date: 1337-01-01
 comments: false
 ---
 
-Your goal is to find the flag. [compress_and_attack.py] `nc mercury.picoctf.net [port #]`  
+Your goal is to find the flag. [compress_and_attack.py](https://github.com/Nightxade/ctf-writeups/tree/master/assets/CTFs/picoCTF/compress_and_attack.py) `nc mercury.picoctf.net [port #]`  
 
 ---
 
