@@ -1,7 +1,7 @@
 ---
 layout: writeup
 category: Newport-Blake-CTF-2023
-chall_description: https://i.imgur.com/32n7io7.png
+chall_description: https://i.imgur.com/O74FGE5.png
 points: 241
 solves: 162
 tags: web SQLi sql-union
