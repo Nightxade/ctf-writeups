@@ -12,6 +12,10 @@ comments: false
 Yay reversing! Relevant files: [otp](https://github.com/Nightxade/ctf-writeups/tree/master/assets/CTFs/picoCTF/otp) [flag.txt](https://github.com/Nightxade/ctf-writeups/tree/master/assets/CTFs/picoCTF/otp-flag.txt)  
 
 ---
+<script
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+  type="text/javascript">
+</script>
 
 We're given an ELF binary `otp` and a `flag.txt` that contains the encrypted flag. Here's the relevant Hex-Rays decompilation by [Dogbolt](https://dogbolt.org/):  
 
@@ -96,7 +100,7 @@ int __fastcall main(int argc, const char **argv, const char **envp)
 
 Seems like we're going through some sort of deterministic process to figure out if our key is correct. Notably, in the for loop containing most of this deterministic process, it only uses `si[i - 1]`, i.e. the previous byte that was just calculated, which, for the correct key value, would be the previous byte in the string they provided for us to compare with.  
 
-Since we're only using the previous byte to determine our next byte, can't we just reverse this implementation and brute force the key byte-by-byte? Moreover, each byte of the key can only be a hex character, i.e. `0123456789abcdef`. This means that our brute force should only take maximum $$O(16 * N)$$. Since $$N=100$$, this should easily run in time! All that's left is to implement it! (and not mess it up like I did)  
+Since we're only using the previous byte to determine our next byte, can't we just reverse this implementation and brute force the key byte-by-byte? Moreover, each byte of the key can only be a hex character, i.e. `0123456789abcdef`. This means that our brute force should only take maximum $$O(16 * N)$$ . Since $$N=100$$, this should easily run in time! All that's left is to implement it! (and not mess it up like I did)  
 
 ```py
 ct = "adpjkoadapekldmpbjhjhbaghlfldbhjdalgnbeedheenfoeddabpmdnliokcahomdphbcleipfgibjdcgmjcmadaomiakpdjcni"
