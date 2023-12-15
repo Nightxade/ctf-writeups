@@ -1,4 +1,3 @@
-- ping 2023 (12/11)
 - picoCTF
 	- WPA-ing out
 	- Some Assembly Required 3
