@@ -13,7 +13,7 @@ Someone in our company leaked some very sensitive information. We absolutely can
 
 Thankfully our monitoring software intercepted the screenshot that was leaked. An old engineer of ours did write some kind of watermarking for screenshots but we have no idea how it works. Can you figure it out?  
 
-[captured.png](https://github.com/Nightxade/ctf-writeups/assets/CTFs/Cyber-Cooperative-CTF-2023/forensics/captured.png)  
+[captured.png](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/Cyber-Cooperative-CTF-2023/forensics/captured.png)  
 
 ---
 

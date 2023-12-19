@@ -12,7 +12,7 @@ comments: false
 a little harder this time  
 `nc 0.cloud.chals.io 27380`  
 
-[medbof](https://github.com/Nightxade/ctf-writeups/assets/CTFs/Cyber-Cooperative-CTF-2023/pwn/crashme.c)  
+[medbof](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/Cyber-Cooperative-CTF-2023/pwn/medbof)  
 
 ---
 

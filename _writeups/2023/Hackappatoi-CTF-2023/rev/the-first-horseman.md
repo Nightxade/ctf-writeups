@@ -11,7 +11,7 @@ comments: false
 
 I don’t think you’re welcome inside this castle… SHISH! 
 
-[thefirsthorseman](https://github.com/Nightxade/ctf-writeups/assets/CTFs/Hackappatoi-CTF-2023/thefirsthorseman38.pyc)  
+[thefirsthorseman](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/Hackappatoi-CTF-2023/thefirsthorseman38.pyc)  
 
 ---
 

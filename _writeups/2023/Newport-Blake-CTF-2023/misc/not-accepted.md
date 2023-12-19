@@ -9,7 +9,7 @@ date: 2023-12-4
 comments: false
 ---
 
-I can't seem to pass this problem... can you help me? https://codeforces.com/contestInvitation/9cf6e56adf19ecb8e5dd7af8a9c5bf5610c8e46e  
+I can't seem to pass this problem... can you help me? [https://codeforces.com/contestInvitation/9cf6e56adf19ecb8e5dd7af8a9c5bf5610c8e46e](https://codeforces.com/contestInvitation/9cf6e56adf19ecb8e5dd7af8a9c5bf5610c8e46e)  
 
 ---
 

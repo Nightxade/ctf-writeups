@@ -11,7 +11,7 @@ comments: false
 
 This is the hardest reversing challenge I've ever met!!! Can you please help me? It even has source code attached to it.  
 
-[31201020812a2cc96988054c9661143d.zip](https://github.com/Nightxade/ctf-writeups/assets/CTFs/ping-CTF-2023/31201020812a2cc96988054c9661143d.zip)  
+[31201020812a2cc96988054c9661143d.zip](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/ping-CTF-2023/31201020812a2cc96988054c9661143d.zip)  
 
 ---
 

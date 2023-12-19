@@ -11,7 +11,7 @@ comments: false
 
 This is no ordinary reversing challenge! As the Christmas season is coming, we thought that a real elf would be a great addition to our team. Unfortunately, the image of the elf got completely smashed and we can't see anything. Can you help us recover the elf? Please DON'T confuse a leprechaun with an elf!  
 
-[5a0201f6e1fc25a759a85e307a4dd9f4.zip](https://github.com/Nightxade/ctf-writeups/assets/CTFs/ping-CTF-2023/5a0201f6e1fc25a759a85e307a4dd9f4.zip)  
+[5a0201f6e1fc25a759a85e307a4dd9f4.zip](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/ping-CTF-2023/5a0201f6e1fc25a759a85e307a4dd9f4.zip)  
 
 ---
 

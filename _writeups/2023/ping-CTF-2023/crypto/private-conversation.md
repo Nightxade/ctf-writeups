@@ -16,7 +16,7 @@ In the midst of your cryptographic investigations, you stumble upon a fragment o
 
 Your challenge is to decrypt the message and reveal its content. The fate of uncovering valuable information lies in your decryption skills. Can you decipher the message and unveil the hidden message within?  
 
-[a24d9877549d9bb256616d238838ba2e_1.zip](https://github.com/Nightxade/ctf-writeups/assets/CTFs/ping-CTF-2023/a24d9877549d9bb256616d238838ba2e_1.zip)  
+[a24d9877549d9bb256616d238838ba2e_1.zip](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/ping-CTF-2023/a24d9877549d9bb256616d238838ba2e_1.zip)  
 
 ---
 

@@ -15,7 +15,7 @@ Ignore the time/memory/input/output section of the pdf.
 
 `nc chal.nbctf.com 30270`  
 
-[gym.pdf](https://github.com/Nightxade/ctf-writeups/assets/CTFs/Newport-Blake-CTF-2023/algo/gym.pdf)  
+[gym.pdf](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/Newport-Blake-CTF-2023/algo/gym.pdf)  
 
 ---
 

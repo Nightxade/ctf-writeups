@@ -17,7 +17,7 @@ Take a closer look at the accompanying image; it might hold the key to unlocking
 
 Note: The image does not contain anything necessary for the solution.  
 
-[2071dc8fe41830e3f171544fffc6128b.zip](https://github.com/Nightxade/ctf-writeups/assets/CTFs/ping-CTF-2023/2071dc8fe41830e3f171544fffc6128b.zip)  
+[2071dc8fe41830e3f171544fffc6128b.zip](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/ping-CTF-2023/2071dc8fe41830e3f171544fffc6128b.zip)  
 
 ---
 

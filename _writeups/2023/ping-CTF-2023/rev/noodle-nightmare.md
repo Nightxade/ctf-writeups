@@ -11,7 +11,7 @@ comments: false
 
 In the last programming session, Bajtek unleashed a coding catastrophe – his spaghetti code was so messy that even the compiler threw up its hands in surrender. Colleagues attempted to debug it, but the code was like a Rubik's Cube on a caffeine overdose. Bajtek proudly declared it an avant-garde programming masterpiece, leaving his coworkers wondering if they should call a programmer's version of an exorcist. In the end, they renamed his file "spaghetti.cpp" to "noodleNightmare.cpp" as a memorial to the chaotic session.  
 
-[58df855a70e2573ee69865930774973a.zip](https://github.com/Nightxade/ctf-writeups/assets/CTFs/ping-CTF-2023/58df855a70e2573ee69865930774973a.zip)  
+[58df855a70e2573ee69865930774973a.zip](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/ping-CTF-2023/58df855a70e2573ee69865930774973a.zip)  
 
 ---
 

@@ -15,7 +15,7 @@ Enclose the flag in brackets.
 
 I think it was on the same page that websites return when the page doesnt exist?  
 
-[location.txt](https://github.com/Nightxade/ctf-writeups/assets/CTFs/Newport-Blake-CTF-2023/osint/location.txt)  
+[location.txt](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/Newport-Blake-CTF-2023/osint/location.txt)  
 
 ---
 

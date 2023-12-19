@@ -11,7 +11,7 @@ comments: false
 
 Our field agents extracted the disassembly for a function that we think generates a secret flag. But it doesn't look like any kind of disassembly we can recognize. Can you figure it out?  
 
-[dis.txt](https://github.com/Nightxade/ctf-writeups/assets/CTFs/Cyber-Cooperative-CTF-2023/rev/dis.txt)  
+[dis.txt](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/Cyber-Cooperative-CTF-2023/rev/dis.txt)  
 
 ---
 

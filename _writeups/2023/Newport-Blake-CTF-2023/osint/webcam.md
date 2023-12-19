@@ -11,7 +11,7 @@ comments: false
 
 인터넷에서 웹캠을 잃어버렸습니다. 정확히 어디에 있는지 알려주실 수 있나요? Flag is the coordinates of the location truncated to three digits, wrapped in nbctf. Example: `nbctf{XX.XXX_XX.XXX}`
 
-[images.zip](https://github.com/Nightxade/ctf-writeups/assets/CTFs/Newport-Blake-CTF-2023/osint/images.zip)  
+[images.zip](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/Newport-Blake-CTF-2023/osint/images.zip)  
 
 ---
 

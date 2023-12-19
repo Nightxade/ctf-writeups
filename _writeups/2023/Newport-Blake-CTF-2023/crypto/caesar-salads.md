@@ -11,7 +11,7 @@ comments: false
 
 Every CTF needs an introductory crypto. I found a roman emperor that made this super cool cipher. Can you decrypt this for me?  
 
-[output.txt](https://github.com/Nightxade/ctf-writeups/assets/CTFs/Newport-Blake-CTF-2023/crypto/caesar-output.txt)  
+[output.txt](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/Newport-Blake-CTF-2023/crypto/caesar-output.txt)  
 
 ---
 

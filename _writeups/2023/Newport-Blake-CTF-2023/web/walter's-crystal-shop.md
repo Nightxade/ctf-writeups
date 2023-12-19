@@ -13,7 +13,7 @@ My buddy Walter is selling some crystals, check out his shop!
 
 [walters-crystal-shop.chal.nbctf.com](walters-crystal-shop.chal.nbctf.com)  
 
-[walters_crystal_shop.zip](https://github.com/Nightxade/ctf-writeups/assets/CTFs/Newport-Blake-CTF-2023/web/walters_crystal_shop.zip)  
+[walters_crystal_shop.zip](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/Newport-Blake-CTF-2023/web/walters_crystal_shop.zip)  
 
 ---
 

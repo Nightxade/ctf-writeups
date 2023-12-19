@@ -11,7 +11,7 @@ comments: false
 
 In this challenge, your school teacher dismissed your abilities by calling you a lame loser. Now, you have the chance to prove her wrong by showcasing your skills in solving equations of the form ax + by = 0. You already know x,y! If you get a,b you can decrypt ct.  
 
-[3db3d601436d200a1696e3bbac06cca9.zip](https://github.com/Nightxade/ctf-writeups/assets/CTFs/ping-CTF-2023/3db3d601436d200a1696e3bbac06cca9.zip)  
+[3db3d601436d200a1696e3bbac06cca9.zip](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/ping-CTF-2023/3db3d601436d200a1696e3bbac06cca9.zip)  
 
 ---
 

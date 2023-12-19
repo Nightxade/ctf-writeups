@@ -11,7 +11,7 @@ comments: false
 
 Exponents took too long. I decided to use an alternative. It won't about the same right? https://en.wikipedia.org/wiki/RSA(cryptosystem)  
 
-[output.txt](https://github.com/Nightxade/ctf-writeups/assets/CTFs/Newport-Blake-CTF-2023/crypto/rsa-output.txt) [chall.py](https://github.com/Nightxade/ctf-writeups/assets/CTFs/Newport-Blake-CTF-2023/crypto/rsa-chall.py)  
+[output.txt](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/Newport-Blake-CTF-2023/crypto/rsa-output.txt) [chall.py](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/Newport-Blake-CTF-2023/crypto/rsa-chall.py)  
 
 ---
 

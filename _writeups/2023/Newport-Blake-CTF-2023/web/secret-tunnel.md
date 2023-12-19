@@ -13,7 +13,7 @@ Can you find the flag on the other end of my secret tunnel?
 
 [secret-tunnel.chal.nbctf.com](secret-tunnel.chal.nbctf.com)  
 
-[secret_tunnel.zip](https://github.com/Nightxade/ctf-writeups/assets/CTFs/Newport-Blake-CTF-2023/web/secret_tunnel.zip)  
+[secret_tunnel.zip](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/Newport-Blake-CTF-2023/web/secret-tunnel.zip)  
 
 ---
 

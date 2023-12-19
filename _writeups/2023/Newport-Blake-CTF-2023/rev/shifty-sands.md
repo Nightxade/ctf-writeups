@@ -13,7 +13,7 @@ Can you escape the sand-filled maze before it's too late?
 
 `nc chal.nbctf.com 30401`  
 
-[sands](https://github.com/Nightxade/ctf-writeups/assets/CTFs/Newport-Blake-CTF-2023/rev/sands)  
+[sands](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/Newport-Blake-CTF-2023/rev/sands)  
 
 ---
 

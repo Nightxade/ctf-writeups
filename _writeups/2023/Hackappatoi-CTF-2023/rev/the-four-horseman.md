@@ -11,7 +11,7 @@ comments: false
 
 The Cavaliere is returned. He is awake and he’s ready to unleash the apocalypse. Are you the chosen one? Solving this challenge will give you the access to the war against the four horsemen. Be ready.  
 
-[thefourhorsemen](https://github.com/Nightxade/ctf-writeups/assets/CTFs/Hackappatoi-CTF-2023/thefourhorsemen)
+[thefourhorsemen](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/Hackappatoi-CTF-2023/thefourhorsemen)
 
 ---
 

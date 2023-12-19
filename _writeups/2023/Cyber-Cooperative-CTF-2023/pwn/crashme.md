@@ -12,8 +12,8 @@ comments: false
 Can you make this program crash?  
 `nc 0.cloud.chals.io 17289`  
 
-[crashme](https://github.com/Nightxade/ctf-writeups/assets/CTFs/Cyber-Cooperative-CTF-2023/pwn/crashme)  
-[crashme.c](https://github.com/Nightxade/ctf-writeups/assets/CTFs/Cyber-Cooperative-CTF-2023/pwn/crashme.c)  
+[crashme](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/Cyber-Cooperative-CTF-2023/pwn/crashme)  
+[crashme.c](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/Cyber-Cooperative-CTF-2023/pwn/crashme.c)  
 
 ---
 

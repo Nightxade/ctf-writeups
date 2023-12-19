@@ -11,7 +11,7 @@ comments: false
 
 X  
 
-[output.txt](https://github.com/Nightxade/ctf-writeups/assets/CTFs/Newport-Blake-CTF-2023/rev/output.txt) [main.py](https://github.com/Nightxade/ctf-writeups/assets/CTFs/Newport-Blake-CTF-2023/rev/main.py)  
+[output.txt](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/Newport-Blake-CTF-2023/rev/output.txt) [main.py](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/Newport-Blake-CTF-2023/rev/main.py)  
 
 ---
 

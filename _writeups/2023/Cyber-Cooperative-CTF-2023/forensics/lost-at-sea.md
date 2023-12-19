@@ -11,7 +11,7 @@ comments: false
 
 I dropped my flag in the sea. Help me find it among the sharks!
 
-[lost-at-sea.pcap](https://github.com/Nightxade/ctf-writeups/assets/CTFs/Cyber-Cooperative-CTF-2023/forensics/lost-at-sea.pcap)  
+[lost-at-sea.pcapng](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/Cyber-Cooperative-CTF-2023/forensics/lost-at-sea.pcapng)  
 
 ---
 

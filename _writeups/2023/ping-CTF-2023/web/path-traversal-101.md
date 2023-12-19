@@ -13,7 +13,7 @@ Can you pass the path traversal exam? 👀 There might be some requirements tho 
 
 [https://path-traversal-101.knping.pl](https://path-traversal-101.knping.pl)  
 
-[ec96a2a4ee45dd97dfa37319f21468a3.zip](https://github.com/Nightxade/ctf-writeups/assets/CTFs/ping-CTF-2023/ec96a2a4ee45dd97dfa37319f21468a3.zip)  
+[ec96a2a4ee45dd97dfa37319f21468a3.zip](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/ping-CTF-2023/ec96a2a4ee45dd97dfa37319f21468a3.zip)  
 
 ---
 

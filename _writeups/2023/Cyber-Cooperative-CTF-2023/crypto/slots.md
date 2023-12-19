@@ -12,7 +12,7 @@ comments: false
 I heard about this [scam that let people rob some slot machines](https://www.wired.com/2017/02/russians-engineer-brilliant-slot-machine-cheat-casinos-no-fix/). Can you do it with this slot machine?  
 `nc 0.cloud.chals.io 30309`  
 
-[server.py](https://github.com/Nightxade/ctf-writeups/assets/CTFs/Cyber-Cooperative-CTF-2023/crypto/server.py)  
+[server.py](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/Cyber-Cooperative-CTF-2023/crypto/server.py)  
 
 ---
 Here's `server.py`:  

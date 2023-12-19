@@ -11,7 +11,7 @@ comments: false
 
 Don't smoke zigarettes, kids!  
 
-[e0d8bf8fdefc32df23a1c96f047c50fc.zip](https://github.com/Nightxade/ctf-writeups/assets/CTFs/ping-CTF-2023/e0d8bf8fdefc32df23a1c96f047c50fc.zip)  
+[e0d8bf8fdefc32df23a1c96f047c50fc.zip](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/ping-CTF-2023/e0d8bf8fdefc32df23a1c96f047c50fc.zip)  
 
 ---
 

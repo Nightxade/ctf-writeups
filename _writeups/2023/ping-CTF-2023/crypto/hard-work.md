@@ -11,7 +11,7 @@ comments: false
 
 You've received a cryptic message from your boss at the company. Apparently, your aggressive demeanor has raised concerns, and your paycheck is on hold until you decipher the hidden magic message.  
 
-[9cddbd472fe3ad694468f3799cb80e08.zip](https://github.com/Nightxade/ctf-writeups/assets/CTFs/ping-CTF-2023/9cddbd472fe3ad694468f3799cb80e08.zip)  
+[9cddbd472fe3ad694468f3799cb80e08.zip](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/ping-CTF-2023/9cddbd472fe3ad694468f3799cb80e08.zip)  
 
 ---
 

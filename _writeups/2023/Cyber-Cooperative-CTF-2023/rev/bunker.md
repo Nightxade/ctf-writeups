@@ -11,7 +11,7 @@ comments: false
 
 You reach a large metal door. It's protected by large yellow bars. There appears to be an panel with a keypad...  
 
-[bunker.jar](https://github.com/Nightxade/ctf-writeups/assets/CTFs/Cyber-Cooperative-CTF-2023/rev/bunker.jar)  
+[Bunker.jar](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/Cyber-Cooperative-CTF-2023/rev/Bunker.jar)  
 
 ---
 

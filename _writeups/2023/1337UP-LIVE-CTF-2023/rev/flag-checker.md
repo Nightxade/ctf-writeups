@@ -11,8 +11,8 @@ comments: false
 
 Can you beat this FlagChecker?
 
-[flagchecker](https://github.com/Nightxade/ctf-writeups/assets/CTFs/1337-UP-LIVE-CTF-2023/flagchecker) 
-[source.rs](https://github.com/Nightxade/ctf-writeups/assets/CTFs/1337-UP-LIVE-CTF-2023/source.rs) 
+[flagchecker](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/1337UP-LIVE-CTF-2023/flagchecker) 
+[source.rs](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/1337UP-LIVE-CTF-2023/source.rs) 
 
 ---
 ### *Warning: if you came here for an elegant solution, this is not the writeup to be reading!*  

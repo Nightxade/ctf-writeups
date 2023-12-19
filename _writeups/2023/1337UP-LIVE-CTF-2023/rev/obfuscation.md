@@ -11,7 +11,7 @@ comments: false
 
 I think I made my code harder to read. Can you let me know if that's true?  
 
-[obfuscation.zip](https://github.com/Nightxade/ctf-writeups/assets/CTFs/1337-UP-LIVE-CTF-2023/obfuscation.zip) 
+[obfuscation.zip](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/1337UP-LIVE-CTF-2023/obfuscation.zip) 
 
 ---
 

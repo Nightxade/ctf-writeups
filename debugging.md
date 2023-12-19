@@ -7,6 +7,9 @@ https://github.com/jekyll/jekyll/issues/8523#issuecomment-751409319
 ### Keep sorting of CTF challs in order
 same date, all start with same case. date format: YYYY-MM-DD
 
+### Github assets file links
+Make sure to have `/ctf-writeups/blob/master/assets`
+
 ### Latex Support
 Put this in Markdown files:
 <script

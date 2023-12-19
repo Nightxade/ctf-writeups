@@ -11,7 +11,7 @@ comments: false
 
 I need to make a key for this crackme for my homework. I just want to play video games, can you make a valid key for me? You can submit it here as the flag.
 
-[easycrack](https://github.com/Nightxade/ctf-writeups/assets/CTFs/Cyber-Cooperative-CTF-2023/rev/easycrack)  
+[easycrack](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/Cyber-Cooperative-CTF-2023/rev/easycrack)  
 
 ---
 

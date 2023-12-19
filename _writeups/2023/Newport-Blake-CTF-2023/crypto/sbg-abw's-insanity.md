@@ -11,7 +11,7 @@ comments: false
 
 "Skill Issue" - AnonymousBlueWhale  
 
-[output.txt](https://github.com/Nightxade/ctf-writeups/assets/CTFs/Newport-Blake-CTF-2023/crypto/sbg-abw-output.txt) [chall.py](https://github.com/Nightxade/ctf-writeups/assets/CTFs/Newport-Blake-CTF-2023/crypto/sbg-abw-chall.py)  
+[output.txt](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/Newport-Blake-CTF-2023/crypto/sbg-abw-output.txt) [chall.py](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/Newport-Blake-CTF-2023/crypto/sbg-abw-chall.py)  
 
 ---
 

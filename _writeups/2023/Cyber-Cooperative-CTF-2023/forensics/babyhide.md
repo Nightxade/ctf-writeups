@@ -11,7 +11,7 @@ comments: false
 
 This little baby is figuring out how to computer! It looks like the baby hid some of my files though. I have no idea what to do, can you get my files back?
 
-[babyhide.jpg](https://github.com/Nightxade/ctf-writeups/assets/CTFs/Cyber-Cooperative-CTF-2023/forensics/babyhide.jpg)  
+[babyhide.jpg](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/Cyber-Cooperative-CTF-2023/forensics/babyhide.jpeg)  
 
 ---
 

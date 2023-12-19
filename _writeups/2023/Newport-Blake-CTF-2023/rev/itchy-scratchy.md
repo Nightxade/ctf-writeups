@@ -11,7 +11,7 @@ comments: false
 
 Yeah sorry, I couldn't resist. Use Turbowarp if you want.  
 
-[itchyscratchy.sb3](https://github.com/Nightxade/ctf-writeups/assets/CTFs/Newport-Blake-CTF-2023/rev/itchyscratchy.sb3)  
+[itchyscratchy.sb3](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/Newport-Blake-CTF-2023/rev/itchyscratchy.sb3)  
 
 ---
 

@@ -11,7 +11,7 @@ comments: false
 
 I'm not sure why, but when I look at this image I can hear some sort of faint sound. Do you hear it too?  
 
-[help.png](https://github.com/Nightxade/ctf-writeups/assets/CTFs/Newport-Blake-CTF-2023/misc/help.png)  
+[help.png](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/Newport-Blake-CTF-2023/misc/help.png)  
 
 ---
 
