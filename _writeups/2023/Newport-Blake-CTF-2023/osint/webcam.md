@@ -5,7 +5,7 @@ chall_description: https://i.imgur.com/HYkgw1a.png
 points: 429
 solves: 56
 tags: osint google-maps
-date: 12-4-2023
+date: 2023-12-4
 comments: false
 ---
 

@@ -5,7 +5,7 @@ chall_description: https://i.imgur.com/QWftkWG.png
 points: 352
 solves: 100
 tags: osint hex
-date: 12-4-2023
+date: 2023-12-4
 comments: false
 ---
 

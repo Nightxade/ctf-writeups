@@ -5,7 +5,7 @@ chall_description: https://i.imgur.com/geENRkL.png
 points: 365
 solves: 93
 tags: misc codeforces
-date: 12-4-2023
+date: 2023-12-4
 comments: false
 ---
 

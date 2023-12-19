@@ -5,7 +5,7 @@ chall_description: https://i.imgur.com/7OCvijy.png
 points: 349
 solves: 102
 tags: crypto rsa broken-rsa
-date: 12-4-2023
+date: 2023-12-4
 comments: false
 ---
 

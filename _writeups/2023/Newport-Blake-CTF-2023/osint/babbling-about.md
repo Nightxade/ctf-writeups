@@ -5,7 +5,7 @@ chall_description: https://i.imgur.com/45JeQG3.png
 points: 401
 solves: 73
 tags: osint babel
-date: 12-4-2023
+date: 2023-12-4
 comments: false
 ---
 

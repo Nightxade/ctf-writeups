@@ -5,7 +5,7 @@ chall_description: https://i.imgur.com/32n7io7.png
 points: 264
 solves: 148
 tags: web localhost url-encoding
-date: 12-4-2023
+date: 2023-12-4
 comments: false
 ---
 

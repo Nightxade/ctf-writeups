@@ -5,7 +5,7 @@ chall_description: N/A
 points: 170
 solves: 31
 tags: rev lsb
-date: 12-11-2023
+date: 2023-12-11
 comments: false
 ---
 

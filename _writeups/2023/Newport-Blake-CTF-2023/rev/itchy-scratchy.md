@@ -5,7 +5,7 @@ chall_description: https://i.imgur.com/s0LPgDe.png
 points: 464
 solves: 32
 tags: rev Scratch brute-force
-date: 12-4-2023
+date: 2023-12-4
 comments: false
 ---
 

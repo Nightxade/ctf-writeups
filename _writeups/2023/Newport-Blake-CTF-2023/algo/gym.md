@@ -5,7 +5,7 @@ chall_description: https://i.imgur.com/XcntmTZ.png
 points: 438
 solves: 50
 tags: algo greedy
-date: 12-4-2023
+date: 2023-12-4
 comments: false
 ---
 

@@ -5,7 +5,7 @@ chall_description: https://i.imgur.com/QZ50fmO.png
 points: 261
 solves: 150
 tags: osint wayback-machine
-date: 12-4-2023
+date: 2023-12-4
 comments: false
 ---
 

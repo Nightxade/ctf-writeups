@@ -5,7 +5,7 @@ chall_description: N/A
 points: 100
 solves: 299
 tags: pwn buffer-overflow segfault
-date: 12-19-2023
+date: 2023-12-19
 comments: false
 ---
 

@@ -5,7 +5,7 @@ chall_description: https://i.imgur.com/j3GuNaw.png
 points: 446
 solves: 45
 tags: rev bits
-date: 12-4-2023
+date: 2023-12-4
 comments: false
 ---
 

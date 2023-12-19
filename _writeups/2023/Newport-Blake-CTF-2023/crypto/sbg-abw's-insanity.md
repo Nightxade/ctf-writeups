@@ -5,7 +5,7 @@ chall_description: https://i.imgur.com/8fyVrrv.png
 points: 432
 solves: 54
 tags: crypto rsa
-date: 12-4-2023
+date: 2023-12-4
 comments: false
 ---
 

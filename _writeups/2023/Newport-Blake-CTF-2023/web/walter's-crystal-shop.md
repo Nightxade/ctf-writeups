@@ -5,7 +5,7 @@ chall_description: https://i.imgur.com/O74FGE5.png
 points: 241
 solves: 162
 tags: web SQLi sql-union
-date: 12-4-2023
+date: 2023-12-4
 comments: false
 ---
 

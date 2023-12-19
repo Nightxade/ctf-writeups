@@ -5,7 +5,7 @@ chall_description: https://i.imgur.com/I9lsaoZ.png
 points: 420
 solves: 62
 tags: osint hex
-date: 12-4-2023
+date: 2023-12-4
 comments: false
 ---
 

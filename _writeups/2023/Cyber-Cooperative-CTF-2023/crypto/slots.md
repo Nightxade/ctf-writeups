@@ -5,7 +5,7 @@ chall_description: N/A
 points: 250
 solves: 121
 tags: crypto randcrack
-date: 12-19-2023
+date: 2023-12-19
 comments: false
 ---
 

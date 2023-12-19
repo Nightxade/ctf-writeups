@@ -5,7 +5,7 @@ chall_description: https://i.imgur.com/iPsR4Lf.png
 points: 476
 solves: 22
 tags: rev maze
-date: 12-4-2023
+date: 2023-12-4
 comments: false
 ---
 

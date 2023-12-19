@@ -5,7 +5,7 @@ chall_description: https://i.imgur.com/704MMP5.png
 points: 241
 solves: 162
 tags: misc forensics audio-forensics
-date: 12-4-2023
+date: 2023-12-4
 comments: false
 ---
 

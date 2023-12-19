@@ -5,7 +5,7 @@ chall_description: https://i.imgur.com/nQzGSIA.png
 points: 100
 solves: 266
 tags: web inspect
-date: 12-4-2023
+date: 2023-12-4
 comments: false
 ---
 

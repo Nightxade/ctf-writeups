@@ -5,7 +5,7 @@ chall_description: N/A
 points: 50
 solves: 170
 tags: web robots.txt path
-date: 12-11-2023
+date: 2023-12-11
 comments: false
 ---
 
