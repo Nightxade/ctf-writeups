@@ -1,0 +1,158 @@
+ 20           0 LOAD_CONST               1 (36054)
+
+ 21           2 LOAD_CONST               2 (55674)
+
+ 22           4 LOAD_CONST               3 (30924)
+
+ 23           6 LOAD_CONST               4 (59454)
+
+ 24           8 LOAD_CONST               5 (53145)
+
+ 25          10 LOAD_CONST               6 (70425)
+
+ 26          12 LOAD_CONST               7 (72954)
+
+ 27          14 LOAD_CONST               8 (15984)
+
+ 28          16 LOAD_CONST               9 (97605)
+
+ 29          18 LOAD_CONST              10 (93024)
+
+ 30          20 LOAD_CONST              11 (74205)
+
+ 31          22 LOAD_CONST              12 (34515)
+
+ 32          24 LOAD_CONST              13 (91584)
+
+ 33          26 LOAD_CONST              13 (91584)
+
+ 34          28 LOAD_CONST              14 (95364)
+
+ 35          30 LOAD_CONST              13 (91584)
+
+ 36          32 LOAD_CONST               4 (59454)
+
+ 37          34 LOAD_CONST              10 (93024)
+
+ 38          36 LOAD_CONST              15 (38394)
+
+ 39          38 LOAD_CONST              16 (17235)
+
+ 40          40 LOAD_CONST              17 (11115)
+
+ 41          42 LOAD_CONST               7 (72954)
+
+ 42          44 LOAD_CONST               8 (15984)
+
+ 43          46 LOAD_CONST              13 (91584)
+
+ 44          48 LOAD_CONST              10 (93024)
+
+ 45          50 LOAD_CONST               8 (15984)
+
+ 46          52 LOAD_CONST              13 (91584)
+
+ 47          54 LOAD_CONST              10 (93024)
+
+ 48          56 LOAD_CONST               3 (30924)
+
+ 49          58 LOAD_CONST              10 (93024)
+
+ 50          60 LOAD_CONST              18 (78084)
+
+ 51          62 LOAD_CONST               3 (30924)
+
+ 52          64 LOAD_CONST              14 (95364)
+
+ 53          66 LOAD_CONST              13 (91584)
+
+ 54          68 LOAD_CONST               1 (36054)
+
+ 55          70 LOAD_CONST              11 (74205)
+
+ 56          72 LOAD_CONST               3 (30924)
+
+ 57          74 LOAD_CONST              18 (78084)
+
+ 58          76 LOAD_CONST              19 (13644)
+
+ 59          78 LOAD_CONST              10 (93024)
+
+ 60          80 LOAD_CONST              20 (99144)
+
+ 61          82 LOAD_CONST               3 (30924)
+
+ 62          84 LOAD_CONST              18 (78084)
+
+ 63          86 LOAD_CONST              13 (91584)
+
+ 64          88 LOAD_CONST              21 (99945)
+             90 BUILD_LIST              45
+             92 STORE_FAST               0 (n)
+
+ 67          94 SETUP_LOOP              82 (to 178)
+             96 LOAD_GLOBAL              0 (enumerate)
+             98 LOAD_FAST                0 (n)
+            100 CALL_FUNCTION            1
+            102 GET_ITER
+        >>  104 FOR_ITER                70 (to 176)
+            106 UNPACK_SEQUENCE          2
+            108 STORE_FAST               1 (i)
+            110 STORE_FAST               2 (x)
+
+ 68         112 LOAD_GLOBAL              1 (int)
+            114 LOAD_GLOBAL              2 (str)
+            116 LOAD_FAST                0 (n)
+            118 LOAD_FAST                1 (i)
+            120 BINARY_SUBSCR
+            122 CALL_FUNCTION            1
+            124 LOAD_CONST               0 (None)
+            126 LOAD_CONST               0 (None)
+            128 LOAD_CONST              26 (-1)
+            130 BUILD_SLICE              3
+            132 BINARY_SUBSCR
+            134 CALL_FUNCTION            1
+            136 LOAD_FAST                0 (n)
+            138 LOAD_FAST                1 (i)
+            140 STORE_SUBSCR
+
+ 69         142 LOAD_FAST                0 (n)
+            144 LOAD_FAST                1 (i)
+            146 DUP_TOP_TWO
+            148 BINARY_SUBSCR
+            150 LOAD_CONST              23 (999)
+            152 INPLACE_SUBTRACT
+            154 ROT_THREE
+            156 STORE_SUBSCR
+
+ 70         158 LOAD_FAST                0 (n)
+            160 LOAD_FAST                1 (i)
+            162 DUP_TOP_TWO
+            164 BINARY_SUBSCR
+            166 LOAD_CONST              24 (432)
+            168 INPLACE_FLOOR_DIVIDE
+            170 ROT_THREE
+            172 STORE_SUBSCR
+            174 JUMP_ABSOLUTE          104
+        >>  176 POP_BLOCK
+
+ 72     >>  178 LOAD_CONST              25 ('')
+            180 STORE_FAST               3 (o)
+
+ 73         182 SETUP_LOOP              24 (to 208)
+            184 LOAD_FAST                0 (n)
+            186 GET_ITER
+        >>  188 FOR_ITER                16 (to 206)
+            190 STORE_FAST               4 (p)
+
+ 74         192 LOAD_FAST                3 (o)
+            194 LOAD_GLOBAL              3 (chr)
+            196 LOAD_FAST                4 (p)
+            198 CALL_FUNCTION            1
+            200 INPLACE_ADD
+            202 STORE_FAST               3 (o)
+            204 JUMP_ABSOLUTE          188
+        >>  206 POP_BLOCK
+
+ 75     >>  208 LOAD_FAST                3 (o)
+            210 RETURN_VALUE
