@@ -23,3 +23,6 @@ Make sure the title includes spaces between all words and the category and tags 
 
 ### Embed image
 <img src="[imgur link]" alt="[description]" style="display: block; margin-left: auto; margin-right: auto; width: 100%;"/>  
+
+### Google Site Verification
+Search it up
