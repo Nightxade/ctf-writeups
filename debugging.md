@@ -25,4 +25,4 @@ Make sure the title includes spaces between all words and the category and tags 
 <img src="[imgur link]" alt="[description]" style="display: block; margin-left: auto; margin-right: auto; width: 100%;"/>  
 
 ### Google Site Verification
-Search it up
+Add "google1f873ae9edd1f806.html" to /_pages with content "google-site-verification: google1f873ae9edd1f806.html"
