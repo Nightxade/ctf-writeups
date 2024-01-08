@@ -5,7 +5,7 @@ chall_description: N/A
 points: 280
 solves: 70
 tags: misc brute-force
-date: 2024-12-7
+date: 2024-1-7
 comments: false
 ---
 

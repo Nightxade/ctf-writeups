@@ -5,7 +5,7 @@ chall_description: N/A
 points: 50
 solves: 422
 tags: web sqli union
-date: 2024-12-7
+date: 2024-1-7
 comments: false
 ---
 

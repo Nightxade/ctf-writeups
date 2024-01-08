@@ -5,7 +5,7 @@ chall_description: N/A
 points: 197
 solves: 82
 tags: crypto aes aes-cbc oracle json
-date: 2024-12-7
+date: 2024-1-7
 comments: false
 ---
 

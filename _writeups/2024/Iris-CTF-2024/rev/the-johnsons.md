@@ -5,7 +5,7 @@ chall_description: N/A
 points: 50
 solves: 316
 tags: rev logic
-date: 2024-12-7
+date: 2024-1-7
 comments: false
 ---
 

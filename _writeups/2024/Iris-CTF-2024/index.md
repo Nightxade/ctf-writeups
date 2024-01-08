@@ -2,7 +2,7 @@
 layout: ctf_overview
 title: Iris CTF 2024
 category: Iris-CTF-2024
-date: 2024-12-7
+date: 2024-1-7
 tags: Iris-CTF-2024
 ---
 
