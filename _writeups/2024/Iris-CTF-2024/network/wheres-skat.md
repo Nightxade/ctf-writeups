@@ -9,9 +9,9 @@ date: 2024-1-7
 comments: false
 ---
 
-`While traveling over the holidays, I was doing some casual wardriving (as I often do). Can you use my capture to find where I went?`  
+While traveling over the holidays, I was doing some casual wardriving (as I often do). Can you use my capture to find where I went?  
 
-`Note: the flag is irisctf{the_location}, where the_location is the full name of my destination location, not the street address. For example, irisctf{Washington_Monument}. Note that the flag is not case sensitive.`  
+Note: the flag is irisctf{the_location}, where the_location is the full name of my destination location, not the street address. For example, irisctf{Washington_Monument}. Note that the flag is not case sensitive.  
 
 [wheres-skat.tar.gz](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/Iris-CTF-2024/wheres-skat.tar.gz)  
 
