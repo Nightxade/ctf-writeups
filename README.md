@@ -15,14 +15,13 @@ If you're here, I hope you learn something and enjoy :)
 <dd>Get good at CS comps</dd>
 <br>
 <dt>CTF Skills</dt>
-<dd>Crypto (passable?)</dd>
-<dd>Rev (beginner)</dd>
-<dd>Pwn/Binary Exploitation (beginner)</dd>
-<dd>Web (we don't talk about it)</dd>
-<dd>Forensics (beginner - passable)</dd>
-<dd>Rev (beginner)</dd>
-<dd>OSINT (beginner - passable)</dd>
-<dd>Newtork (beginner)</dd>
-<dd>Mobile (never tried)</dd>
+<dd>Crypto (good)</dd>
+<dd>Rev (passable)</dd>
+<dd>Pwn/Binary Exploitation (beginner - passable)</dd>
+<dd>Web (beginner)</dd>
+<dd>Forensics (passable)</dd>
+<dd>OSINT (decent)</dd>
+<dd>Newtork (beginner - passable)</dd>
+<dd>Mobile (beginner)</dd>
 
 </dl>
