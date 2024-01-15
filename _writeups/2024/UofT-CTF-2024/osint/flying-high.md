@@ -24,10 +24,12 @@ Airport:
 - Logo of nearby hangar reads "novespace", which is an airline
 - Searching up "novespace airport" returns a location. [Google Street View](https://www.google.com/maps/@44.8379971,-0.7159023,3a,75y,117.47h,90.51t/data=!3m6!1e1!3m4!1saVmTHmV70ry_RU8h71VabQ!2e0!7i13312!8i6656?entry=ttu) near the Novespace hangar shows the image!  
 - The nearby airport is the Bordeaux-Mérignac Airport, with code BOD
+
 Airline:  
 - Search "ib airline" due to logo looking somewhat like an "ib"
 - Check out this image:  [https://www.google.com/search?client=firefox-b-1-e&sca_esv=598255384&sxsrf=ACQVn0-tbdHKEfEboXMrsYkF3QBoNwXiuQ:1705193363471&q=ib+airline&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjEw8-l1NuDAxVxlWoFHU8RB2gQ0pQJegQIFhAB&biw=1536&bih=713&dpr=1#imgrc=SjNortQZtQ5CiM](https://www.google.com/search?client=firefox-b-1-e&sca_esv=598255384&sxsrf=ACQVn0-tbdHKEfEboXMrsYkF3QBoNwXiuQ:1705193363471&q=ib+airline&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjEw8-l1NuDAxVxlWoFHU8RB2gQ0pQJegQIFhAB&biw=1536&bih=713&dpr=1#imgrc=SjNortQZtQ5CiM)  
 - Clicking on the Wikipedia link and scrolling down to the image, the caption reveals that it is the old logo of Iberia Airlines.
+
 Airplane:  
 - Searching up "Iberia aircraft", we can find [this site](https://www.airfleets.net/flottecie/Iberia.htm).  
 - Once I reached this point, I decided to just brute force all possibilities, as I wasn't sure how to proceed otherwise.  
