@@ -2,8 +2,8 @@
 layout: writeup
 category: Dice-CTF-Quals-2024
 chall_description: N/A
-points: 442
-solves: 97
+points: 105
+solves: 445
 tags: web inspect
 date: 2024-2-4
 comments: false

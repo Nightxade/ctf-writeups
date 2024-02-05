@@ -2,8 +2,8 @@
 layout: writeup
 category: Dice-CTF-Quals-2024
 chall_description: N/A
-points: 442
-solves: 97
+points: 127
+solves: 107
 tags: misc jail zsh
 date: 2024-2-4
 comments: false
