@@ -1,6 +1,6 @@
 ---
 layout: writeup
-category: UofT-CTF-2024
+category: Dice-CTF-Quals-2024
 chall_description: N/A
 points: 442
 solves: 97
