@@ -19,7 +19,7 @@ may your code be under par. execute the getflag binary somewhere in the filesyst
 
 We're given a "zsh" jail file:  
 
-```zsh
+```bash
 #!/bin/zsh
 print -n -P "%F{green}Specify your charset: %f"
 read -r charset
