@@ -5,7 +5,7 @@ chall_description: N/A
 points: 442
 solves: 97
 tags: misc jail zsh
-date: 2024-1-15
+date: 2024-2-4
 comments: false
 ---
 
