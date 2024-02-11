@@ -1,7 +1,7 @@
 ---
 layout: writeup
 category: Iris-CTF-2024
-chall_description: N/A
+chall_description:
 points: 50
 solves: 254
 tags: pwn buffer-overflow ret2win

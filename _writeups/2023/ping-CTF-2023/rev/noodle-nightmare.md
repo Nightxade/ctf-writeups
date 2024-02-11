@@ -1,7 +1,7 @@
 ---
 layout: writeup
 category: ping-CTF-2023
-chall_description: N/A
+chall_description:
 points: 50
 solves: 206
 tags: rev obfuscation

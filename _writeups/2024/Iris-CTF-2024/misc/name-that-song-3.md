@@ -1,7 +1,7 @@
 ---
 layout: writeup
 category: Iris-CTF-2024
-chall_description: N/A
+chall_description:
 points: 435
 solves: 38
 tags: misc reverse-audio-search

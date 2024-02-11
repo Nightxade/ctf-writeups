@@ -1,7 +1,7 @@
 ---
 layout: writeup
 category: Hackappatoi-CTF-2023
-chall_description: N/A
+chall_description:
 points: 50
 solves: N/A
 tags: rev rot13

@@ -1,7 +1,7 @@
 ---
 layout: writeup
 category: Cyber-Cooperative-CTF-2023
-chall_description: N/A
+chall_description:
 points: 250
 solves: 121
 tags: crypto randcrack

@@ -1,7 +1,7 @@
 ---
 layout: writeup
 category: UofT-CTF-2024
-chall_description: N/A
+chall_description:
 points: 100
 solves: 303
 tags: iot fcc-lookup

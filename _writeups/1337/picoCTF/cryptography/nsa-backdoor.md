@@ -1,7 +1,7 @@
 ---
 layout: writeup
 category: picoCTF
-chall_description: N/A
+chall_description:
 points: 500
 solves: 563
 tags: crypto diffie-hellman rsa smooth-primes pollard-attack

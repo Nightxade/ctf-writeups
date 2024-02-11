@@ -1,7 +1,7 @@
 ---
 layout: writeup
 category: Iris-CTF-2024
-chall_description: N/A
+chall_description: 
 points: 197
 solves: 82
 tags: crypto aes aes-cbc oracle json

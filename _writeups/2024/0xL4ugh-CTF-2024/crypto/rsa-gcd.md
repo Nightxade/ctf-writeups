@@ -1,7 +1,7 @@
 ---
 layout: writeup
 category: 0xL4ugh-CTF-2024
-chall_description: N/A
+chall_description: 
 points: 50
 solves: 72
 tags: crypto rsa gcd

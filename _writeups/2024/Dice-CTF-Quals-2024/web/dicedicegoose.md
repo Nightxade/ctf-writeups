@@ -1,7 +1,7 @@
 ---
 layout: writeup
 category: Dice-CTF-Quals-2024
-chall_description: N/A
+chall_description: 
 points: 105
 solves: 445
 tags: web inspect

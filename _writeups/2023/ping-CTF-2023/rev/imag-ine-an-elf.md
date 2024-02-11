@@ -1,7 +1,7 @@
 ---
 layout: writeup
 category: ping-CTF-2023
-chall_description: N/A
+chall_description:
 points: 170
 solves: 31
 tags: rev lsb

@@ -1,7 +1,7 @@
 ---
 layout: writeup
 category: UofT-CTF-2024
-chall_description: N/A
+chall_description:
 points: 250
 solves: 199
 tags: pwn ret2win buffer-overflow

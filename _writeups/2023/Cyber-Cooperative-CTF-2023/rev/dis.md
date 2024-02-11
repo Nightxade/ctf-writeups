@@ -1,7 +1,7 @@
 ---
 layout: writeup
 category: Cyber-Cooperative-CTF-2023
-chall_description: N/A
+chall_description:
 points: 300
 solves: 104
 tags: rev bytecode
