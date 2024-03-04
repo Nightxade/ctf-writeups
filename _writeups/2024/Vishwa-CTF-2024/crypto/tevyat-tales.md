@@ -29,18 +29,18 @@ Conveniently, I also found the background image of the website by clicking on 's
 
 Decoding for each returns:  
 
-1: Teyvat
-    ENIGMA MTHREE
-    (Input "ENIGMA M3")
-2: Deshret
-    UKW C
-3: Sumeru
-    ROTORONE I P M
-    ROTORTWO IV A O
-    ROTORTHREE VI I N
-    (Absolutely no clue how to get the input right on this one -- the web trick saved me)
-4: Inazuma
-    VI SH WA CT FX
+1: Teyvat  
+    ENIGMA MTHREE  
+    (Input "ENIGMA M3")  
+2: Deshret  
+    UKW C  
+3: Sumeru  
+    ROTORONE I P M  
+    ROTORTWO IV A O  
+    ROTORTHREE VI I N  
+    (Absolutely no clue how to get the input right on this one -- the web trick saved me)  
+4: Inazuma  
+    VI SH WA CT FX  
 
 Use an engima decoder like [this one](https://cryptii.com/pipes/enigma-machine) with the above values to get the flag!  
 
