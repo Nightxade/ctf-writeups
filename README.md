@@ -14,14 +14,18 @@ If you're here, I hope you learn something and enjoy :)
 <dd>Be somewhat decent in every CTF area</dd>
 <dd>Get good at CS comps</dd>
 <br>
+<dt>Teams</dt>
+<dd><a href="https://ctftime.org/team/262393">Nightxade (solo)</a></dd>
+<dd><a href="https://ctftime.org/team/280900">reCAPTCHA the Flag</a></dd>
+<br>
 <dt>CTF Skills</dt>
 <dd>Crypto (good)</dd>
 <dd>Rev (passable)</dd>
-<dd>Pwn/Binary Exploitation (beginner - passable)</dd>
+<dd>Pwn/Binary Exploitation (passable)</dd>
 <dd>Web (beginner)</dd>
 <dd>Forensics (passable)</dd>
 <dd>OSINT (decent)</dd>
-<dd>Newtork (beginner - passable)</dd>
+<dd>Newtork (passable)</dd>
 <dd>Mobile (beginner)</dd>
 
 </dl>
