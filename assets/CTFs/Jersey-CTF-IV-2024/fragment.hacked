@@ -1,0 +1,11 @@
+password 
+soSalty 
+key = pbkdf2.PBKDF2(password, soSalty).read(32) 
+
+#ENCRYPTION 
+
+iv = secrets.randbits(256) 
+plaintext 
+aes = pyaes.AESModeOfOperation___(key, pyaes.Counter(iv))
+ciphertext = aes.encrypt(plaintext) 
+print('ENCRYPTED:', binascii.hexlify(ciphertext))
