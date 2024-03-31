@@ -15,7 +15,7 @@ Flag Format: jctf{hashedMessage, (r, s)}
 
 Developed by: thatLoganGuy  
 
-[importantInfo](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/Jersey-CTF-IV-2024/importantinfo)  
+[importantInfo](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/Jersey-CTF-IV-2024/importantInfo)  
 
 ---
 
