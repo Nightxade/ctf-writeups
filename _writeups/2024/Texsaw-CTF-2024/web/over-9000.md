@@ -1,6 +1,6 @@
 ---
 layout: writeup
-category: Jersey-CTF-IV-2024
+category: Texsaw-CTF-2024
 chall_description:
 points: 50
 solves: -1
