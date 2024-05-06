@@ -15,7 +15,7 @@ Hint: This is a math challenge
 
 `nc 34.132.166.199 11112`
 
-[squ1rrel-lottery.py](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/squ1rrel-CTF-2024/squ1rrel-lottery.txt)  
+[squ1rrel-lottery.py](https://github.com/Nightxade/ctf-writeups/blob/master/assets/CTFs/squ1rrel-CTF-2024/squ1rrel-lottery.py)  
 
 ---
 
