@@ -214,7 +214,7 @@ That's... kind of like a system of equations, right? Except, there's a slight pr
 
 ## System of equations!!!
 
-Well, systems of equations actually helps here once again. Consider the encryption of the first 3 rows of the flag bytes with *only* the first key matrix row. And, just so we don't confused ourselves, let's stop using our example numbers and replace them with variables.  
+Well, systems of equations actually helps here once again. Consider the encryption of the first 3 rows of the flag bytes with *only* the first key matrix row. And, just so we don't confuse ourselves, let's stop using our example numbers and replace them with variables.  
 
 ```py
 dot(key[0], row) = (key[0][0]*19 + key[0][1]*9 + key[0][2]*2) % modulus
