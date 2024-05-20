@@ -76,7 +76,7 @@ open("out.txt", "w+").write(str(enc))
 Let's walk through exactly what's happening.  
 
 
-### Step 1
+## Step 1
 
 ```py
 flag = [alphabet.index(a) for a in flag]
@@ -92,7 +92,8 @@ Here, the flag is converted such that each byte becomes the byte's index in the 
 [19, 9, 2, 19, 5, 62, 5, 58, 10, 57, 64, 5, 11, 58, 61, 63, 8663296688968513193, 1557885647606936801]
 ```
 
-### Step 2
+
+## Step 2
 
 ```py
 rows = list(zip(flag[::3], flag[1::3], flag[2::3]))
@@ -104,7 +105,8 @@ This operation (by just using a sample flag and running it) just splits the flag
 [(19, 9, 2), (19, 5, 62), (5, 58, 10), (57, 64, 5), (11, 58, 61), (63, 8663296688968513193, 1557885647606936801)]
 ```
 
-### Step 3
+
+## Step 3
 
 ```py
 def det(matrix):
@@ -140,7 +142,7 @@ Let's say our key is this:
 ]
 ```
 
-# Step 4
+## Step 4
 
 ```py
 def dot(a,b):
@@ -196,7 +198,8 @@ Which is similar in form to what we were provided in out.txt.
 
 So, we're essentially just using a randomized key matrix, performing matrix multiplication between the flag byte matrix and key matrix, and returning the result. So... how can we break this?  
 
-### System of equations...?
+
+## System of equations...?
 
 Well, take a look at the encryption operation:  
 
@@ -208,7 +211,8 @@ dot(key[2], row) = (12173872960170950772*19 + 13281922566309990632*9 + 135137730
 
 That's... kind of like a system of equations, right? Except, there's a slight problem here. In this, it seems like the variables are 19, 9, and 2, the bytes of the flag, and the key matrix values are the coefficients. If we can get the coefficients, we can pretty easily solve this system of equations, as we have 3 variables and 3 equations! But that means we need a total break of this system by recovering the key. How can we do that?  
 
-### System of equations!!!
+
+## System of equations!!!
 
 Well, systems of equations actually helps here once again. Consider the encryption of the first 3 rows of the flag bytes with *only* the first key matrix row. And, just so we don't confused ourselves, let's stop using our example numbers and replace them with variables.  
 
@@ -283,7 +287,8 @@ for i in range(LEN):
         exit()
 ```
 
-### wtf where'd the last bytes go D:
+
+## wtf where'd the last bytes go D:
 
 Yeah so... turns out the program isn't perfect. It doesn't decrypt the last group of 3 bytes. I realized that it's probably because of the padding, i.e. the last byte or two is some random large number less than the modulus, and for some reason it's screwing up the program.  
 
@@ -291,9 +296,10 @@ So far, though, I had most of the flag:
 
 `tjctf{aint_no_hillllll_55e4$S56a356^#@`.  
 
-So how can I correct the program and get the full flag?  
+So how can we correct the program and get the full flag?  
 
-### n a h
+
+## n a h
 
 We know the end of the flag is '}', and the last part of the 3 byte group is probably padding. That means there's only one byte of the flag left that we don't know!  
 
