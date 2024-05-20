@@ -232,7 +232,7 @@ Well, conveniently, `alphabet` is only 75 characters long. 75^3 is 421875, which
 
 Once we find the correct 3 flag bytes, we can easily use SageMath to solve the system of equations and recover the key matrix. From there, we can then turn back to the other system of equations, where the group of 3 flag bytes are the variables and the key matrix is the coefficients, and use the same exact SageMath function to solve the system of equations and get the flag bytes!  
 
-Perfect. Now we can just implemented in Sage and solve!  
+Perfect. Now we can just implement in Sage and solve!  
 
 It took me a while to debug, but here's the implementation:  
 
