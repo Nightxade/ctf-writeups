@@ -20,12 +20,12 @@ If you're here, I hope you learn something and enjoy :)
 <br>
 <dt>CTF Skills</dt>
 <dd>Crypto (good)</dd>
-<dd>Rev (passable)</dd>
-<dd>Pwn/Binary Exploitation (passable)</dd>
-<dd>Web (beginner)</dd>
-<dd>Forensics (passable)</dd>
+<dd>Rev (decent)</dd>
+<dd>Pwn/Binary Exploitation (decent)</dd>
+<dd>Web (GG)</dd>
+<dd>Forensics (decent)</dd>
 <dd>OSINT (decent)</dd>
-<dd>Newtork (passable)</dd>
-<dd>Mobile (beginner)</dd>
+<dd>Newtork (decent)</dd>
+<dd>Mobile (GG)</dd>
 
 </dl>
