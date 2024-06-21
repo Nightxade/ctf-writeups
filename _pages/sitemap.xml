@@ -1,0 +1,1932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/solutions</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/binary-exploitation/babygame01.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/binary-exploitation/buffer-overflow-2.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/binary-exploitation/buffer-overflow-3.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/binary-exploitation/flag-leak.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/binary-exploitation/rps.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/binary-exploitation/x-sixty-what.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/cryptography/aes-abc.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/cryptography/b00tl3gRSA2.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/cryptography/b00tl3gRSA3.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/cryptography/college-rowing-team.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/cryptography/compress-and-attack.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/cryptography/john-pollard.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/cryptography/mini-rsa-(both).html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/cryptography/new-vignere.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/cryptography/nsa-backdoor.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/cryptography/rsa-pop-quiz.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/cryptography/scrambled-rsa.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/cryptography/sra.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/cryptography/sum-o-primes.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/cryptography/very-smooth.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/cryptography/waves-over-lambda.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/forensics/Operation-Oni.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/forensics/Operation-Orchid.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/forensics/SideChannel.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/forensics/WhitePages.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/reverse-engineering/otp-implementation.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/reverse-engineering/reverse-cipher.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/web-exploitation/irish-name-repo-1.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/web-exploitation/irish-name-repo-2.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/web-exploitation/irish-name-repo-3.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/web-exploitation/roboto-sans.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/web-exploitation/secrets.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/1337UP-LIVE-CTF-2023/</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/1337UP-LIVE-CTF-2023/crypto/keyless.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/1337UP-LIVE-CTF-2023/crypto/not-so-smooth.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/1337UP-LIVE-CTF-2023/crypto/really-secure-apparently.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/1337UP-LIVE-CTF-2023/rev/flag-checker.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/1337UP-LIVE-CTF-2023/rev/obfuscation.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/1337UP-LIVE-CTF-2023/warmup/encoding.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/1337UP-LIVE-CTF-2023/warmup/flag-extraction.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/1337UP-LIVE-CTF-2023/warmup/over-the-wire-1.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/1337UP-LIVE-CTF-2023/warmup/over-the-wire-2.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Newport-Blake-CTF-2023/</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Newport-Blake-CTF-2023/algo/gym.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Newport-Blake-CTF-2023/crypto/32+32=64.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Newport-Blake-CTF-2023/crypto/caesar-salads.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Newport-Blake-CTF-2023/crypto/rivest-shamir-forgot-adleman.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Newport-Blake-CTF-2023/crypto/sbg-abw&#39;s-insanity.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Newport-Blake-CTF-2023/misc/do-you-hear-that.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Newport-Blake-CTF-2023/misc/not-accepted.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Newport-Blake-CTF-2023/osint/babbling-about.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Newport-Blake-CTF-2023/osint/linkedout-1.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Newport-Blake-CTF-2023/osint/linkedout-3.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Newport-Blake-CTF-2023/osint/persona.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Newport-Blake-CTF-2023/osint/webcam.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Newport-Blake-CTF-2023/rev/crisscross.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Newport-Blake-CTF-2023/rev/itchy-scratchy.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Newport-Blake-CTF-2023/rev/shifty-sands.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Newport-Blake-CTF-2023/web/inspector-gadget.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Newport-Blake-CTF-2023/web/secret-tunnel.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Newport-Blake-CTF-2023/web/walter&#39;s-crystal-shop.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Hackappatoi-CTF-2023/</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Hackappatoi-CTF-2023/misc/escape-from-italy.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Hackappatoi-CTF-2023/osint/italian-mail.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Hackappatoi-CTF-2023/rev/the-first-horseman.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Hackappatoi-CTF-2023/rev/the-four-horseman.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Hackappatoi-CTF-2023/web/lemons.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/ping-CTF-2023/</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/ping-CTF-2023/crypto/hard-work.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/ping-CTF-2023/crypto/lame-lame-loser.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/ping-CTF-2023/crypto/old-friend-from-the-past.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/ping-CTF-2023/crypto/private-conversation.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/ping-CTF-2023/misc/inside-bear.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/ping-CTF-2023/rev/imag-ine-an-elf.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/ping-CTF-2023/rev/noodle-nightmare.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/ping-CTF-2023/rev/ziggarettes.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/ping-CTF-2023/web/path-traversal-101.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/ping-CTF-2023/web/youtube-trailer.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Cyber-Cooperative-CTF-2023/</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Cyber-Cooperative-CTF-2023/crypto/slots.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Cyber-Cooperative-CTF-2023/forensics/babyhide.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Cyber-Cooperative-CTF-2023/forensics/funding-secured.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Cyber-Cooperative-CTF-2023/forensics/lost-at-sea.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Cyber-Cooperative-CTF-2023/pwn/crashme.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Cyber-Cooperative-CTF-2023/pwn/medbof.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Cyber-Cooperative-CTF-2023/rev/bunker.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Cyber-Cooperative-CTF-2023/rev/dis.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Cyber-Cooperative-CTF-2023/rev/easycrack.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Iris-CTF-2024/</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Iris-CTF-2024/crypto/baby-charge.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Iris-CTF-2024/crypto/integral-communication.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Iris-CTF-2024/misc/name-that-song-3.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Iris-CTF-2024/misc/sir-scope.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Iris-CTF-2024/network/wheres-skat.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Iris-CTF-2024/osint/away-on-vacation.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Iris-CTF-2024/osint/czech-where.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Iris-CTF-2024/osint/personal-breach.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Iris-CTF-2024/pwn/insanity-check.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Iris-CTF-2024/rev/rune-whats-that.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Iris-CTF-2024/rev/the-johnsons.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Iris-CTF-2024/web/whats-my-password.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/UofT-CTF-2024/</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/UofT-CTF-2024/crypto/clever-thinking.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/UofT-CTF-2024/crypto/piano-man.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/UofT-CTF-2024/crypto/repeat.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/UofT-CTF-2024/forensics/enable-me.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/UofT-CTF-2024/forensics/secret-message-1.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/UofT-CTF-2024/iot/babys-first-iot-flag-1.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/UofT-CTF-2024/iot/babys-first-iot-flag-2.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/UofT-CTF-2024/jail/babys-first-pyjail.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/UofT-CTF-2024/misc/out-of-the-bucket.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/UofT-CTF-2024/osint/flying-high.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/UofT-CTF-2024/pwn/basic-overflow.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/UofT-CTF-2024/pwn/patched-shell.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Dice-CTF-Quals-2024/</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Dice-CTF-Quals-2024/crypto/winter.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Dice-CTF-Quals-2024/misc/zshfuck.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Dice-CTF-Quals-2024/web/dicedicegoose.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/0xL4ugh-CTF-2024/</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/0xL4ugh-CTF-2024/crypto/poison.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/0xL4ugh-CTF-2024/crypto/rsa-gcd.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Vishwa-CTF-2024/</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Vishwa-CTF-2024/crypto/bitbane-cryptic-chaos.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Vishwa-CTF-2024/crypto/intellectual-heir.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Vishwa-CTF-2024/crypto/lets-smother-the-king.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Vishwa-CTF-2024/crypto/poly-fun.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Vishwa-CTF-2024/crypto/tevyat-tales.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Wolv-CTF-2024/</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Wolv-CTF-2024/beginner/crypto-two-time-pad.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Wolv-CTF-2024/beginner/crypto-yors-truly.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Wolv-CTF-2024/beginner/forensics-hidden-data.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Wolv-CTF-2024/beginner/osint-redditor.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Wolv-CTF-2024/beginner/pwn-babypwn.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Wolv-CTF-2024/beginner/pwn-babypwn2.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Wolv-CTF-2024/beginner/rev-babyre.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Wolv-CTF-2024/beginner/rev-shredded.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Wolv-CTF-2024/beginner/web-the-gauntlet.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Wolv-CTF-2024/crypto/blocked-1.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Wolv-CTF-2024/crypto/blocked-2.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Wolv-CTF-2024/crypto/limited-1.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Wolv-CTF-2024/crypto/limited-2.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Wolv-CTF-2024/crypto/tag-series-1.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Wolv-CTF-2024/crypto/tag-series-3.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Wolv-CTF-2024/misc/made-sense.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Wolv-CTF-2024/osint/wolphv-i-reconaissance.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Jersey-CTF-IV-2024/</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Jersey-CTF-IV-2024/crypto/aces-aes.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Jersey-CTF-IV-2024/crypto/adveRSAry.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Jersey-CTF-IV-2024/crypto/attn-agents.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Jersey-CTF-IV-2024/crypto/mutant-mayhem.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Jersey-CTF-IV-2024/forensics/vibrations.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Jersey-CTF-IV-2024/osint/cyber-daddy.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Jersey-CTF-IV-2024/osint/the-golden-falcon-and-the-rugged-lands.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Texsaw-CTF-2024/</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Texsaw-CTF-2024/crypto/freaky-flags.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Texsaw-CTF-2024/misc/prison-italiano.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Texsaw-CTF-2024/osint/geo-location.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Texsaw-CTF-2024/osint/sherlock.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Texsaw-CTF-2024/web/ask-and-it-shall-be-given-to-you.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Texsaw-CTF-2024/web/extreme-security.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Texsaw-CTF-2024/web/over-9000.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/UT-CTF-2024/</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/UT-CTF-2024/crypto/beginner-anti-dcode.fr.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/UT-CTF-2024/crypto/cryptordle.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/UT-CTF-2024/crypto/numbers-go-brr-2.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/UT-CTF-2024/crypto/numbers-go-brr.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/UT-CTF-2024/crypto/rsa-256.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/UT-CTF-2024/crypto/simple-signature.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/UT-CTF-2024/forensics/gibberish.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/UT-CTF-2024/misc/ccv.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/UMD-CTF-2024/</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/UMD-CTF-2024/crypto/triple-des.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/UMD-CTF-2024/pwn/mentat-question.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/squ1rrel-CTF-2024/</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/squ1rrel-CTF-2024/crypto/lazy-rsa.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/squ1rrel-CTF-2024/crypto/partial-rsa.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/squ1rrel-CTF-2024/crypto/rsa-rsa-rsa.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/squ1rrel-CTF-2024/crypto/squ1rrel-lottery.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/squ1rrel-CTF-2024/crypto/squ1rrel-treasury.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/TJ-CTF-2024/</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/TJ-CTF-2024/crypto/account-leak.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/TJ-CTF-2024/crypto/alkane.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/TJ-CTF-2024/crypto/assume.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/TJ-CTF-2024/crypto/hulksmash.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/TJ-CTF-2024/crypto/iodomethane.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/TJ-CTF-2024/crypto/lightweight-crypto-guard-system.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/TJ-CTF-2024/crypto/weird-crypto.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/BCA-CTF-2024/</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/BCA-CTF-2024/crypto/cha-cha-slide.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/BCA-CTF-2024/crypto/cinnamon-dynamics.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/BCA-CTF-2024/crypto/encryptor-shop.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/BCA-CTF-2024/crypto/rad-be-damned.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/BCA-CTF-2024/crypto/rsa-encrypter.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/BCA-CTF-2024/crypto/superstitious-2.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/BCA-CTF-2024/crypto/talk-to-echo.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/BCA-CTF-2024/crypto/time-skip.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/BCA-CTF-2024/crypto/vinegar-times-3.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/1337/picoCTF/index.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/1337UP-LIVE-CTF-2023/index.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Newport-Blake-CTF-2023/index.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Hackappatoi-CTF-2023/index.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/ping-CTF-2023/index.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2023/Cyber-Cooperative-CTF-2023/index.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Iris-CTF-2024/index.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/UofT-CTF-2024/index.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Dice-CTF-Quals-2024/index.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/0xL4ugh-CTF-2024/index.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Vishwa-CTF-2024/index.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Wolv-CTF-2024/index.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Jersey-CTF-IV-2024/index.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/Texsaw-CTF-2024/index.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/UT-CTF-2024/index.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/UMD-CTF-2024/index.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/squ1rrel-CTF-2024/index.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/TJ-CTF-2024/index.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/writeups/2024/BCA-CTF-2024/index.html</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=pwn</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=out-of-bounds</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=buffer-overflow</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=ret-to-win</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=args-on-stack</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=gets</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=stack-canary</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=byte-by-byte</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=format-strings</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=%p</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=strstr</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=x64</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=crypto</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=aes</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=rsa</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=multi-prime</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=unpadded</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=zlib</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=Salsa20</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=brute-force</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=certificate</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=small-e</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=vigenere</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=bits</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=diffie-hellman</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=smooth-primes</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=pollard-attack</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=factorization</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=monoalphabetic-substitution</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=forensics</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=disk</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=permissions</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=openssl</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=side-channel</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=timing</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=unicode</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=binary</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=rev</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=otp</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=web</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=sql-injection</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=curl</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=robots.txt</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=xor</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=modular-arithmetic</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=wiener</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=rust</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=obfuscation</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=warmup</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=encoding</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=base32</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=base64</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=hex</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=morse</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=rar</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=zip</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=binwalk</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=network</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=wireshark</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=ftp</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=stego</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=lsb</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=algo</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=greedy</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=caesar</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=broken-rsa</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=misc</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=audio-forensics</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=codeforces</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=osint</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=babel</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=wayback-machine</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=google-maps</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=Scratch</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=maze</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=inspect</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=localhost</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=url-encoding</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=SQLi</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=sql-union</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=py-jail</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=ruby-jail</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=pyc</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=rot13</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=lll</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=spectrogram</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=path</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=randcrack</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=forenics</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=segfault</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=ret2win</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=jar</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=bytecode</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=chacha20</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=oracle</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=aes-cbc</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=json</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=reverse-audio-search</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=wifi</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=instagram</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=reverse-image-search</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=instgram</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=linkedin</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=facebook</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=go</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=logic</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=sqli</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=union</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=ecc</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=smarts-attack</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=microsoft-office</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=iot</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=fcc-lookup</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=jail</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=pyjail</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=blacklist</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=Google-storage</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=winternitz</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=signature</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=zsh</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=elliptic-curve</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=gcd</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=esoteric-language</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=decoder</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=enigma</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=beginner</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=strings</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=roll-your-own</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=random</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=time</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=aes-ecb</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=hash</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=sha1</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=length-extension-attack</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=makefile</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=secp256k1</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=tcp</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=modbus</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=rgb</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=error</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=post</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=headers</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=math</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=forgery</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=stenography</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=credit-cards</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=des</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=3des</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=padding-oracle</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=format-string</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=PIE</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=factordb</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=coppersmith</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=stereotyped-message-attack</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=hastad-broadcast-attack</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=cbc</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=matrix</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=lcg</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=sha256</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=error-checking</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=branch-and-prune</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=invalid-curve-attack</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nightxade.github.io/ctf-writeups/search?q=scytale</loc>
+  <lastmod>2024-06-12T22:56:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
