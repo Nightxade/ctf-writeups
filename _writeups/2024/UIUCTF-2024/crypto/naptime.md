@@ -139,7 +139,7 @@ To generate the public key, each member of the super-increasing set is multiplie
 
 $$(\text{new } a_i) = (\text{old } a_i) * W \; (mod \; M)$$  
 
-Now, here's where this cryptosystem slightly differs from the normal Merkle-Hellman cryptosystem.  It randomly shuffles the public key around, and keeps this permutation information private.  
+Now, after this is where this cryptosystem slightly differs from the normal Merkle-Hellman cryptosystem.  It randomly shuffles the public key around, making this shuffled public key the new public key, and keeps this permutation information private.  
 
 ### encrypting
 
@@ -153,7 +153,7 @@ You might think that we need to pull out some lattice math to solve this knapsac
 
 ### but what if i don't like lattices  
 
-That is a very based opinion. I don't blame you for not liking lattices (I don't). Thankfully, you don't need to know lattices to solve this challenge!  
+That is a very based opinion (I don't like them either). Thankfully, you don't need to know lattices to solve this challenge!  
 
 Remember how this is a byte-by-byte encryption...  and how there are only 8 bits in each byte... which means there are only $$2^8=128$$ possible plaintexts for each element of the ciphertext...  
 
@@ -190,4 +190,4 @@ for c in ct:
   uiuctf{i_g0t_sleepy_s0_I_13f7_th3_fl4g}
 
 ### TL;DR:
-knapsack cryptosystem with too small of a public key so ez byte-by-byte decryption but i am blind and was probably more sleep deprived than the challenge author during the ctf
+knapsack cryptosystem with too small of a public key --> ez byte-by-byte decryption but i am blind and was probably more sleep deprived than the challenge author during the ctf
