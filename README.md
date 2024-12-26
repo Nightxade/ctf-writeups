@@ -6,26 +6,28 @@ If you're here, I hope you learn something and enjoy :)
 <dl>
 
 <dt>Education</dt>
-<dd>In High School</dd>
+<dd>At UC Berkeley!</dd>
 <br>
 <dt>Goals</dt>
-<dd>Get into a good college! (praying)</dd>
-<dd>Get good at crypto</dd>
-<dd>Be somewhat decent in every CTF area</dd>
-<dd>Get good at CS comps</dd>
+<dd>Get good at lattice crypto</dd>
+<dd>Get good at heap exploits</dd>
+<dd>Learn abstract algebra</dd>
+<dd>Learn quantum computing + post-quantum crypto</dd>
+<dd>Get good at competitive CS</dd>
+<dd>Take the Putnam</dd>
 <br>
 <dt>Teams</dt>
-<dd><a href="https://ctftime.org/team/262393">Nightxade (solo)</a></dd>
 <dd><a href="https://ctftime.org/team/280900">reCAPTCHA the Flag</a></dd>
+<dd><a href="https://ctftime.org/team/262393">Nightxade (solo)</a></dd>
 <br>
 <dt>CTF Skills</dt>
-<dd>Crypto (good)</dd>
-<dd>Rev (decent)</dd>
-<dd>Pwn/Binary Exploitation (decent)</dd>
-<dd>Web (GG)</dd>
-<dd>Forensics (decent)</dd>
-<dd>OSINT (decent)</dd>
-<dd>Newtork (decent)</dd>
-<dd>Mobile (GG)</dd>
+<dd>Crypto (8/10)</dd>
+<dd>Rev (6/10)</dd>
+<dd>Pwn/Binary Exploitation (7/10)</dd>
+<dd>Web (2/10)</dd>
+<dd>Forensics (5/10)</dd>
+<dd>OSINT (4/10)</dd>
+<dd>Newtork (5/10)</dd>
+<dd>Mobile (2/10)</dd>
 
 </dl>
