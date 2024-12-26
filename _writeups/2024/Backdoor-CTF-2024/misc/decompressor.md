@@ -123,13 +123,13 @@ def main():
 
 ```
 
-# Huffman Coding
+### Huffman Coding
 
 Basically, this program is implementing [Huffman Coding](https://en.wikipedia.org/wiki/Huffman_coding) for the flag, but not giving us the huffman tree that we can use to decode the compressed flag. However, we are provided the option to request `Additional Info`, in which the ASCII value of a randomly chosen value is passed as input to a polynomial, which has degree 5 and whose coefficients are within the set of positive integers.  
 
 The solution here is to recover the original Huffman Coding tree by utilizing the `Additional Info` option.  
 
-# multithreading because why not
+### multithreading because why not
 
 The first step to doing so is to get the frequencies of each character. Because the polynomial never changes, we can simply request `Additional Info` many times to get the relative frequencies. I realized that it would take a while, so I decided to implement a multithreaded version of this... it probably took more time to make it multithreaded instead of just letting it run (-‿-")  
 
