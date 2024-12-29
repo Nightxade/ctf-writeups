@@ -137,7 +137,7 @@ Then, two numbers `M` and `W` are generated. `W` is some sufficiently large prim
 
 To generate the public key, each member of the super-increasing set is multiplied by `M` and then taken modulo `W`. Mathematically, it is:  
 
-$$(\text{new } a_i) = (\text{old } a_i) * W \; (mod \; M)$$  
+$$(\text{new } a_i) = (\text{old } a_i) * M \; (mod \; W)$$  
 
 Now, after this is where this cryptosystem slightly differs from the normal Merkle-Hellman cryptosystem.  It randomly shuffles the public key around, making this shuffled public key the new public key, and keeps this permutation information private.  
 
