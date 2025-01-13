@@ -1,0 +1,18 @@
+{
+    "cSpell.words": [
+        "chall",
+        "checksec",
+        "decompilation",
+        "fsbase",
+        "malloc",
+        "memset",
+        "putchar",
+        "pwninit",
+        "recvrepeat",
+        "RELRO",
+        "roppity",
+        "RUNPATH",
+        "SHSTK",
+        "tcache"
+    ]
+}
