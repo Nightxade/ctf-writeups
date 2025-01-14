@@ -4,7 +4,7 @@ category: 1337UP-LIVE-CTF-2023
 chall_description: https://i.imgur.com/aipXq4T.png
 points: 100
 solves: 130
-tags: rev rust brute-force
+tags: rev rev/rust rev/brute-force
 date: 2023-11-27
 comments: false
 ---

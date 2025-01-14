@@ -4,7 +4,7 @@ category: ping-CTF-2023
 chall_description:
 points: 50
 solves: 143
-tags: misc binwalk audio-forensics spectrogram
+tags: misc misc/binwalk misc/audio-forensics misc/spectrogram
 date: 2023-12-11
 comments: false
 ---

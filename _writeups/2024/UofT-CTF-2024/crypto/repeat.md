@@ -4,7 +4,7 @@ category: UofT-CTF-2024
 chall_description:
 points: 100
 solves: 317
-tags: crypto xor
+tags: crypto crypto/xor
 date: 2024-1-15
 comments: false
 ---

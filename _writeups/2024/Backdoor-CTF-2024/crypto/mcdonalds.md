@@ -4,7 +4,7 @@ category: Backdoor-CTF-2024
 chall_description: 
 points: 100
 solves: 245
-tags: crypto hash mac
+tags: crypto crypto/hash crypto/mac
 date: 2024-12-24
 comments: false
 ---

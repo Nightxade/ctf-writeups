@@ -4,7 +4,7 @@ category: Vishwa-CTF-2024
 chall_description:
 points: 500
 solves: 54
-tags: crypto rsa
+tags: crypto crypto/rsa
 date: 2024-3-3
 comments: false
 ---

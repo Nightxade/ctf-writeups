@@ -4,7 +4,7 @@ category: Dice-CTF-Quals-2024
 chall_description: 
 points: 105
 solves: 445
-tags: web inspect
+tags: web web/inspect
 date: 2024-2-4
 comments: false
 ---

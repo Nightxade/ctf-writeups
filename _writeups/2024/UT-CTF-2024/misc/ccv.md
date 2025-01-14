@@ -4,7 +4,7 @@ category: UT-CTF-2024
 chall_description:
 points: 912
 solves: 91
-tags: misc credit-cards
+tags: misc misc/credit-cards
 date: 2024-4-1
 comments: false
 ---

@@ -4,7 +4,7 @@ category: 0xL4ugh-CTF-2024
 chall_description: 
 points: 280
 solves: 36
-tags: crypto elliptic-curve
+tags: crypto crypto/elliptic-curve
 date: 2024-2-10
 comments: false
 ---

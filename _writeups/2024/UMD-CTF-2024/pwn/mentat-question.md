@@ -4,7 +4,7 @@ category: UMD-CTF-2024
 chall_description:
 points: 432
 solves: 71
-tags: pwn buffer-overflow gets format-string ret2win PIE
+tags: pwn pwn/buffer-overflow pwn/gets pwn/format-string pwn/ret2win pwn/PIE
 date: 2024-4-28
 comments: false
 ---

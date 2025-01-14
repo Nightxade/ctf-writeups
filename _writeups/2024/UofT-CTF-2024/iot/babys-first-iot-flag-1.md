@@ -4,7 +4,7 @@ category: UofT-CTF-2024
 chall_description:
 points: 100
 solves: 303
-tags: iot fcc-lookup
+tags: osint osint/iot osint/fcc-lookup
 date: 2024-1-15
 comments: false
 ---

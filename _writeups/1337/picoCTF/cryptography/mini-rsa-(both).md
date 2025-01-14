@@ -4,7 +4,7 @@ category: picoCTF
 chall_description: https://i.imgur.com/UvpUvQt.png
 points: 300
 solves: 2980
-tags: crypto rsa brute-force small-e
+tags: crypto crypto/rsa crypto/brute-force crypto/small-e
 date: 1337-01-01
 comments: false
 ---

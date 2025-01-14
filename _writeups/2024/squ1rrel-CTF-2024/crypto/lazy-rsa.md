@@ -4,7 +4,7 @@ category: squ1rrel-CTF-2024
 chall_description:
 points: 110
 solves: 263
-tags: crypto rsa factordb
+tags: crypto crypto/rsa crypto/factordb
 date: 2024-4-28
 comments: false
 ---

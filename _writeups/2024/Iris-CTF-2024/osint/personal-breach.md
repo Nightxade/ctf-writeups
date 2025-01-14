@@ -4,7 +4,7 @@ category: Iris-CTF-2024
 chall_description:
 points: 50
 solves: 173
-tags: osint instgram linkedin facebook
+tags: osint osint/instgram osint/linkedin osint/facebook
 date: 2024-1-7
 comments: false
 ---

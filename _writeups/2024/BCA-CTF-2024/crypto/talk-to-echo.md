@@ -4,7 +4,7 @@ category: BCA-CTF-2024
 chall_description:
 points: 175
 solves: 12
-tags: crypto ecc invalid-curve-attack
+tags: crypto crypto/ecc crypto/invalid-curve-attack
 date: 2024-06-12
 comments: false
 ---

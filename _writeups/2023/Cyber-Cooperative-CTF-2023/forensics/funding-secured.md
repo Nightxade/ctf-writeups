@@ -4,7 +4,7 @@ category: Cyber-Cooperative-CTF-2023
 chall_description:
 points: 200
 solves: 153
-tags: forenics lsb binwalk
+tags: FIX FIX/lsb FIX/binwalk
 date: 2023-12-19
 comments: false
 ---

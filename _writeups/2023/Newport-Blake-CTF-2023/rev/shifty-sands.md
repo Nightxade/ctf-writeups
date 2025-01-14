@@ -4,7 +4,7 @@ category: Newport-Blake-CTF-2023
 chall_description: https://i.imgur.com/iPsR4Lf.png
 points: 476
 solves: 22
-tags: rev maze
+tags: rev rev/maze
 date: 2023-12-4
 comments: false
 ---

@@ -4,7 +4,7 @@ category: Newport-Blake-CTF-2023
 chall_description: https://i.imgur.com/OQOvU8Q.png
 points: 100
 solves: 361
-tags: crypto caesar
+tags: crypto crypto/caesar
 date: 2023-12-4
 comments: false
 ---

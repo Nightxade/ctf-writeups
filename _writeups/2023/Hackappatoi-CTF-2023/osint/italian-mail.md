@@ -4,7 +4,7 @@ category: Hackappatoi-CTF-2023
 chall_description:
 points: 50
 solves: N/A
-tags: osint google-maps
+tags: osint osint/google-maps
 date: 2023-12-10
 comments: false
 ---

@@ -4,7 +4,7 @@ category: Wolv-CTF-2024
 chall_description:
 points: 100
 solves: 250
-tags: misc jail makefile
+tags: misc misc/jail misc/makefile
 date: 2024-3-19
 comments: false
 ---

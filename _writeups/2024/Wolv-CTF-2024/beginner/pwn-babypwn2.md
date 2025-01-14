@@ -4,7 +4,7 @@ category: Wolv-CTF-2024
 chall_description:
 points: 50
 solves: 182
-tags: beginner pwn buffer-overflow ret2win gets
+tags: pwn pwn/buffer-overflow pwn/ret2win pwn/gets
 date: 2024-3-19
 comments: false
 ---

@@ -4,7 +4,7 @@ category: picoCTF
 chall_description: https://i.imgur.com/hPYKzpI.png
 points: 300
 solves: 804
-tags: crypto vigenere bits
+tags: crypto crypto/vigenere crypto/bits
 date: 1337-01-01
 comments: false
 ---

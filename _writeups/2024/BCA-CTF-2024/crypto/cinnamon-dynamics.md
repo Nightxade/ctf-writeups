@@ -4,7 +4,7 @@ category: BCA-CTF-2024
 chall_description:
 points: 175
 solves: 16
-tags: crypto sha256 length-extension-attack
+tags: crypto crypto/sha256 crypto/length-extension-attack
 date: 2024-06-12
 comments: false
 ---

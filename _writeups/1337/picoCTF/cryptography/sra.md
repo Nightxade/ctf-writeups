@@ -4,7 +4,7 @@ category: picoCTF
 chall_description: https://i.imgur.com/3XR4FIG.png
 points: 400
 solves: 499
-tags: crypto rsa factorization brute-force
+tags: crypto crypto/rsa crypto/factorization crypto/brute-force
 date: 1337-01-01
 comments: false
 ---

@@ -4,7 +4,7 @@ category: Texsaw-CTF-2024
 chall_description:
 points: 250
 solves: -1
-tags: web robots.txt error post
+tags: web web/robots.txt web/error web/post
 date: 2024-3-25
 comments: false
 ---

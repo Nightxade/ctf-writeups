@@ -4,7 +4,7 @@ category: Newport-Blake-CTF-2023
 chall_description: https://i.imgur.com/HYkgw1a.png
 points: 429
 solves: 56
-tags: osint google-maps
+tags: osint osint/google-maps
 date: 2023-12-4
 comments: false
 ---

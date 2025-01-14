@@ -4,7 +4,7 @@ category: UT-CTF-2024
 chall_description:
 points: 908
 solves: 95
-tags: crypto signature forgery
+tags: crypto crypto/signature crypto/forgery
 date: 2024-4-1
 comments: false
 ---

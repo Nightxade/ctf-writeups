@@ -4,7 +4,7 @@ category: Hackappatoi-CTF-2023
 chall_description:
 points: 50
 solves: N/A
-tags: web robots.txt
+tags: web web/robots.txt
 date: 2023-12-10
 comments: false
 ---

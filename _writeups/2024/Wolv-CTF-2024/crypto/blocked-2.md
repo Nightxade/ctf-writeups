@@ -4,7 +4,7 @@ category: Wolv-CTF-2024
 chall_description:
 points: 285
 solves: 56
-tags: crypto aes oracle roll-your-own
+tags: crypto crypto/aes crypto/oracle crypto/roll-your-own
 date: 2024-3-19
 comments: false
 ---

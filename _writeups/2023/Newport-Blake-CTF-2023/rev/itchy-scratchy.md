@@ -4,7 +4,7 @@ category: Newport-Blake-CTF-2023
 chall_description: https://i.imgur.com/s0LPgDe.png
 points: 464
 solves: 32
-tags: rev Scratch brute-force
+tags: rev rev/Scratch rev/brute-force
 date: 2023-12-4
 comments: false
 ---

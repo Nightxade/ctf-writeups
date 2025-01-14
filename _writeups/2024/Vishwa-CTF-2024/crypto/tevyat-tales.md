@@ -4,7 +4,7 @@ category: Vishwa-CTF-2024
 chall_description:
 points: 300
 solves: 116
-tags: crypto decoder enigma
+tags: crypto crypto/decoder crypto/enigma
 date: 2024-3-3
 comments: false
 ---

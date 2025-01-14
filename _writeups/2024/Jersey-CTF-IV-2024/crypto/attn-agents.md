@@ -4,7 +4,7 @@ category: Jersey-CTF-IV-2024
 chall_description:
 points: 50
 solves: 334
-tags: crypto caesar
+tags: crypto crypto/caesar
 date: 2024-3-25
 comments: false
 ---

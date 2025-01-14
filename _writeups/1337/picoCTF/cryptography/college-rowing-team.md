@@ -4,7 +4,7 @@ category: picoCTF
 chall_description: https://i.imgur.com/a2Nwy5e.png
 points: 250
 solves: 964
-tags: crypto rsa unpadded
+tags: crypto crypto/rsa crypto/unpadded
 date: 1337-01-01
 comments: false
 ---

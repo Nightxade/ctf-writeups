@@ -4,7 +4,7 @@ category: picoCTF
 chall_description: https://i.imgur.com/p3Y6izX.png
 points: 450
 solves: 855
-tags: crypto rsa multi-prime
+tags: crypto crypto/rsa crypto/multi-prime
 date: 1337-01-01
 comments: false
 ---

@@ -4,7 +4,7 @@ category: Iris-CTF-2024
 chall_description: 
 points: 50
 solves: 151
-tags: crypto chacha20 oracle
+tags: crypto crypto/chacha20 crypto/oracle
 date: 2024-1-7
 comments: false
 ---

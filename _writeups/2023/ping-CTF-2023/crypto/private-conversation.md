@@ -4,7 +4,7 @@ category: ping-CTF-2023
 chall_description:
 points: 50
 solves: 120
-tags: crypto encoding obfuscation
+tags: crypto crypto/encoding crypto/obfuscation
 date: 2023-12-11
 comments: false
 ---

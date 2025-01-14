@@ -4,7 +4,7 @@ category: Iris-CTF-2024
 chall_description:
 points: 50
 solves: 134
-tags: network osint wifi
+tags: forensics forensics/network osint forensics/wifi
 date: 2024-1-7
 comments: false
 ---

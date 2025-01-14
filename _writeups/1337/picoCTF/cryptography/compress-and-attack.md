@@ -4,7 +4,7 @@ category: picoCTF
 chall_description: https://i.imgur.com/tuYBGri.png
 points: 130
 solves: 1401
-tags: crypto zlib Salsa20 brute-force
+tags: crypto crypto/zlib crypto/Salsa20 crypto/brute-force
 date: 1337-01-01
 comments: false
 ---

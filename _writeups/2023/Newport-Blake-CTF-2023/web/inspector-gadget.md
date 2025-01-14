@@ -4,7 +4,7 @@ category: Newport-Blake-CTF-2023
 chall_description: https://i.imgur.com/nQzGSIA.png
 points: 100
 solves: 266
-tags: web inspect
+tags: web web/inspect
 date: 2023-12-4
 comments: false
 ---

@@ -4,7 +4,7 @@ category: TJ-CTF-2024
 chall_description:
 points: 220
 solves: 25
-tags: crypto lcg
+tags: crypto crypto/lcg
 date: 2024-5-19
 comments: false
 ---

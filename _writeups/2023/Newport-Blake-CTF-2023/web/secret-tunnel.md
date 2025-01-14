@@ -4,7 +4,7 @@ category: Newport-Blake-CTF-2023
 chall_description: https://i.imgur.com/32n7io7.png
 points: 264
 solves: 148
-tags: web localhost url-encoding
+tags: web web/localhost web/url-encoding
 date: 2023-12-4
 comments: false
 ---

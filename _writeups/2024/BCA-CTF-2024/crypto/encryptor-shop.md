@@ -4,7 +4,7 @@ category: BCA-CTF-2024
 chall_description:
 points: 50
 solves: 189
-tags: crypto rsa gcd
+tags: crypto crypto/rsa crypto/gcd
 date: 2024-06-12
 comments: false
 ---

@@ -4,7 +4,7 @@ category: UofT-CTF-2024
 chall_description:
 points: 250
 solves: 199
-tags: pwn ret2win buffer-overflow
+tags: pwn pwn/ret2win pwn/buffer-overflow
 date: 2024-1-15
 comments: false
 ---

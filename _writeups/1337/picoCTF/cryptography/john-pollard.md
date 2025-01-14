@@ -4,7 +4,7 @@ category: picoCTF
 chall_description: https://i.imgur.com/sXdY1cZ.png
 points: 500
 solves: 3578
-tags: crypto rsa certificate
+tags: crypto crypto/rsa crypto/certificate
 date: 1337-01-01
 comments: false
 ---

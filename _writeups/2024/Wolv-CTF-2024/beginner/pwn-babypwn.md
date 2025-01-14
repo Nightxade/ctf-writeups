@@ -4,7 +4,7 @@ category: Wolv-CTF-2024
 chall_description:
 points: 50
 solves: 297
-tags: beginner pwn buffer-overflow
+tags: pwn pwn/buffer-overflow
 date: 2024-3-19
 comments: false
 ---

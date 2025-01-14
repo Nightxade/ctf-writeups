@@ -4,7 +4,7 @@ category: Newport-Blake-CTF-2023
 chall_description: https://i.imgur.com/7OCvijy.png
 points: 349
 solves: 102
-tags: crypto rsa broken-rsa
+tags: crypto crypto/rsa crypto/broken-rsa
 date: 2023-12-4
 comments: false
 ---

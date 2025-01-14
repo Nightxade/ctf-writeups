@@ -4,7 +4,7 @@ category: picoCTF
 chall_description: https://i.imgur.com/tpXXcLh.png
 points: 300
 solves: 1135
-tags: crypto rsa smooth-primes pollard-attack
+tags: crypto crypto/rsa crypto/smooth-primes crypto/pollard-attack
 date: 1337-01-01
 comments: false
 ---

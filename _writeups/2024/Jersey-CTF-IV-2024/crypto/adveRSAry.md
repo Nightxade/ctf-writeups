@@ -4,7 +4,7 @@ category: Jersey-CTF-IV-2024
 chall_description:
 points: 568
 solves: 105
-tags: crypto rsa
+tags: crypto crypto/rsa
 date: 2024-3-25
 comments: false
 ---

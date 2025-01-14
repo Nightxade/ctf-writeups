@@ -4,7 +4,7 @@ category: Dice-CTF-Quals-2024
 chall_description: 
 points: 116
 solves: 169
-tags: crypto winternitz signature
+tags: crypto crypto/winternitz crypto/signature
 date: 2024-2-4
 comments: false
 ---

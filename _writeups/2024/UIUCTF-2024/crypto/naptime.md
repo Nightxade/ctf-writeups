@@ -4,7 +4,7 @@ category: UIUCTF-2024
 chall_description:
 points: 363
 solves: 180
-tags: crypto knapsack merkle-hellman byte-by-byte
+tags: crypto crypto/knapsack crypto/merkle-hellman crypto/byte-by-byte
 date: 2024-07-02
 comments: false
 ---

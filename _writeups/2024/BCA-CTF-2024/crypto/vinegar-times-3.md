@@ -4,7 +4,7 @@ category: BCA-CTF-2024
 chall_description:
 points: 25
 solves: 338
-tags: crypto vigenere
+tags: crypto crypto/vigenere
 date: 2024-06-12
 comments: false
 ---

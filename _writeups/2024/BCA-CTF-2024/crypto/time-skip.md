@@ -4,7 +4,7 @@ category: BCA-CTF-2024
 chall_description:
 points: 50
 solves: 313
-tags: crypto scytale
+tags: crypto crypto/scytale
 date: 2024-06-12
 comments: false
 ---

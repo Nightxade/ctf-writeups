@@ -4,7 +4,7 @@ category: Wolv-CTF-2024
 chall_description:
 points: 50
 solves: 286
-tags: beginner crypto xor
+tags: crypto crypto/xor
 date: 2024-3-19
 comments: false
 ---

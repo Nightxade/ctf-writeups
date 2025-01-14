@@ -4,7 +4,7 @@ category: TJ-CTF-2024
 chall_description:
 points: 118
 solves: 151
-tags: crypto rsa wiener
+tags: crypto crypto/rsa crypto/wiener
 date: 2024-5-19
 comments: false
 ---

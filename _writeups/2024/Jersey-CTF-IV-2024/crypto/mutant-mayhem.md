@@ -4,7 +4,7 @@ category: Jersey-CTF-IV-2024
 chall_description:
 points: 997
 solves: 17
-tags: crypto ecc secp256k1 signature
+tags: crypto crypto/ecc crypto/secp256k1 crypto/signature
 date: 2024-3-25
 comments: false
 ---

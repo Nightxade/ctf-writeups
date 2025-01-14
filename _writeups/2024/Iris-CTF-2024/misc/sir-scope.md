@@ -4,7 +4,7 @@ category: Iris-CTF-2024
 chall_description:
 points: 280
 solves: 70
-tags: misc brute-force
+tags: misc misc/brute-force
 date: 2024-1-7
 comments: false
 ---

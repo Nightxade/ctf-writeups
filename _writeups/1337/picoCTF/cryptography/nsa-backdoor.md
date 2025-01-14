@@ -4,7 +4,7 @@ category: picoCTF
 chall_description:
 points: 500
 solves: 563
-tags: crypto diffie-hellman rsa smooth-primes pollard-attack
+tags: crypto crypto/diffie-hellman crypto/rsa crypto/smooth-primes crypto/pollard-attack
 date: 1337-01-01
 comments: false
 ---

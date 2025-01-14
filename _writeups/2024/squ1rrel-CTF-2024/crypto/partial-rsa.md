@@ -4,7 +4,7 @@ category: squ1rrel-CTF-2024
 chall_description:
 points: 450
 solves: 35
-tags: crypto rsa coppersmith stereotyped-message-attack
+tags: crypto crypto/rsa crypto/coppersmith crypto/stereotyped-message-attack
 date: 2024-4-28
 comments: false
 ---

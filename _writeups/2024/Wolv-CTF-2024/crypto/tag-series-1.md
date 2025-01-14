@@ -4,7 +4,7 @@ category: Wolv-CTF-2024
 chall_description:
 points: 253
 solves: 60
-tags: crypto aes aes-ecb oracle
+tags: crypto crypto/aes crypto/aes-ecb crypto/oracle
 date: 2024-3-19
 comments: false
 ---

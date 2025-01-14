@@ -4,7 +4,7 @@ category: picoCTF
 chall_description: https://i.imgur.com/485FIjH.png
 points: 140
 solves: 693
-tags: crypto rsa brute-force byte-by-byte
+tags: crypto crypto/rsa crypto/brute-force crypto/byte-by-byte
 date: 1337-01-01
 comments: false
 ---

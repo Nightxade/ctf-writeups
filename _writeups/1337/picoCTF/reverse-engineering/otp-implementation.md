@@ -4,7 +4,7 @@ category: picoCTF
 chall_description: https://i.imgur.com/YyzALla.png
 points: 300
 solves: 678
-tags: rev otp byte-by-byte
+tags: rev rev/otp rev/byte-by-byte
 date: 1337-01-01
 comments: false
 ---

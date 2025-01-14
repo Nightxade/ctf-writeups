@@ -4,7 +4,7 @@ category: UT-CTF-2024
 chall_description:
 points: 100
 solves: 305
-tags: crypto caesar
+tags: crypto crypto/caesar
 date: 2024-4-1
 comments: false
 ---

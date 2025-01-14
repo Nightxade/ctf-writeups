@@ -4,7 +4,7 @@ category: Cyber-Cooperative-CTF-2023
 chall_description:
 points: 200
 solves: 155
-tags: pwn buffer-overflow ret2win
+tags: pwn pwn/buffer-overflow pwn/ret2win
 date: 2023-12-19
 comments: false
 ---
