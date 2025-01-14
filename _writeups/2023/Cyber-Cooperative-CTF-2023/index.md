@@ -6,7 +6,7 @@ date: 2023-12-19
 tags: Cyber-Cooperative-CTF-2023
 ---
 
-[<img src="https://i.imgur.com/uy5UiUd.png">](https://ctftime.org/event/2206)  
+[<img src="https://imgur.com/FxfhDcc.png" width=100px>](https://ctftime.org/event/2206)  
 
 #121/432
 

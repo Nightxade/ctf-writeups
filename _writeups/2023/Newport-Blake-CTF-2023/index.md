@@ -6,7 +6,7 @@ date: 2023-12-04
 tags: Newport-Blake-CTF-2023
 ---
 
-[<img src="https://i.imgur.com/uy5UiUd.png">](https://ctftime.org/event/2072)  
+[<img src="https://imgur.com/FxfhDcc.png" width=100px>](https://ctftime.org/event/2072)  
 
 Overall Placement: #29/451  
 High School Placement: #8/39  

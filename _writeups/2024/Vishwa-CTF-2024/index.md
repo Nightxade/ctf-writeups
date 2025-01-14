@@ -6,7 +6,7 @@ date: 2024-3-3
 tags: Vishwa-CTF-2024
 ---
 
-[<img src="https://i.imgur.com/uy5UiUd.png">](https://ctftime.org/event/2272)
+[<img src="https://imgur.com/FxfhDcc.png" width=100px>](https://ctftime.org/event/2272)
 
 Placement: #116/1039
 

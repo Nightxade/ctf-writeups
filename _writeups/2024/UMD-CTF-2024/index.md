@@ -6,7 +6,7 @@ date: 2024-4-28
 tags: UMD-CTF-2024
 ---
 
-[<img src="https://i.imgur.com/uy5UiUd.png">](https://ctftime.org/event/2323)
+[<img src="https://imgur.com/FxfhDcc.png" width=100px>](https://ctftime.org/event/2323)
 
 Placement: #28/562
 

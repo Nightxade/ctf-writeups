@@ -6,7 +6,7 @@ date: 2024-1-15
 tags: UofT-CTF-2024
 ---
 
-[<img src="https://i.imgur.com/uy5UiUd.png">](https://ctftime.org/event/2219)
+[<img src="https://imgur.com/FxfhDcc.png" width=100px>](https://ctftime.org/event/2219)
 
 Placement: #175/1225
 

@@ -6,7 +6,7 @@ date: 2024-07-02
 tags: UIUCTF-2024
 ---
 
-[<img src="https://i.imgur.com/uy5UiUd.png">](https://ctftime.org/event/2275)
+[<img src="https://imgur.com/FxfhDcc.png" width=100px>](https://ctftime.org/event/2275)
 
 Placement: #80/959
 

@@ -6,7 +6,7 @@ date: 2024-12-24
 tags: Backdoor-CTF-2024
 ---
 
-[<img src="https://i.imgur.com/uy5UiUd.png">](https://ctftime.org/event/2540)
+[<img src="https://imgur.com/FxfhDcc.png" width=100px>](https://ctftime.org/event/2540)
 
 Placement: #38/476
 

@@ -6,7 +6,7 @@ date: 2024-5-6
 tags: squ1rrel-CTF-2024
 ---
 
-[<img src="https://i.imgur.com/uy5UiUd.png">](https://ctftime.org/event/2370)
+[<img src="https://imgur.com/FxfhDcc.png" width=100px>](https://ctftime.org/event/2370)
 
 Placement: #6/378 All, #2/44 Student  
 Winnings: $150  

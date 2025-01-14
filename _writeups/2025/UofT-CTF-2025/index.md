@@ -6,7 +6,7 @@ date: 2025-1-12
 tags: UofT-CTF-2025
 ---
 
-[<img src="https://i.imgur.com/uy5UiUd.png">](https://ctftime.org/event/2570)
+[<img src="https://imgur.com/FxfhDcc.png" width=100px>](https://ctftime.org/event/2570)
 
 Placement: #50/897
 

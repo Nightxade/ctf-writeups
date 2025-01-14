@@ -6,7 +6,7 @@ date: 2023-12-10
 tags: Hackappatoi-CTF-2023
 ---
 
-[<img src="https://i.imgur.com/uy5UiUd.png">](https://ctftime.org/event/2163)  
+[<img src="https://imgur.com/FxfhDcc.png" width=100px>](https://ctftime.org/event/2163)  
 
 #116/443
 
