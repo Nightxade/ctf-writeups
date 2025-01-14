@@ -4,7 +4,7 @@ category: Iris-CTF-2024
 chall_description: 
 points: 197
 solves: 82
-tags: crypto crypto/aes crypto/aes-cbc crypto/oracle crypto/json
+tags: Iris-CTF-2024 crypto crypto/aes crypto/aes-cbc crypto/oracle crypto/json
 date: 2024-1-7
 comments: false
 ---

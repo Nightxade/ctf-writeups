@@ -4,7 +4,7 @@ category: Wolv-CTF-2024
 chall_description:
 points: 50
 solves: 66
-tags: rev rev/brute-force rev/byte-by-byte
+tags: Wolv-CTF-2024 rev rev/brute-force rev/byte-by-byte
 date: 2024-3-19
 comments: false
 ---

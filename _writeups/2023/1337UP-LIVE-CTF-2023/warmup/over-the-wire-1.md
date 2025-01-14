@@ -4,7 +4,7 @@ category: 1337UP-LIVE-CTF-2023
 chall_description: https://i.imgur.com/SL6Mbla.png
 points: 50
 solves: 251
-tags: forensics forensics/network forensics/wireshark forensics/ftp
+tags: 1337UP-LIVE-CTF-2023 forensics forensics/network forensics/wireshark forensics/ftp
 date: 2023-11-27
 comments: false
 ---

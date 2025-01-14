@@ -4,7 +4,7 @@ category: TJ-CTF-2024
 chall_description:
 points: 154
 solves: 57
-tags: crypto
+tags: TJ-CTF-2024 crypto
 date: 2024-5-19
 comments: false
 ---

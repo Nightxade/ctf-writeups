@@ -4,7 +4,7 @@ category: UT-CTF-2024
 chall_description:
 points: 481
 solves: 228
-tags: crypto crypto/random crypto/aes crypto/oracle
+tags: UT-CTF-2024 crypto crypto/random crypto/aes crypto/oracle
 date: 2024-4-1
 comments: false
 ---

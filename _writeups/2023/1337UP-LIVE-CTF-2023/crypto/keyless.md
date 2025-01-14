@@ -4,7 +4,7 @@ category: 1337UP-LIVE-CTF-2023
 chall_description: https://i.imgur.com/R0cMpLi.png
 points: 100
 solves: 282
-tags: crypto rev
+tags: 1337UP-LIVE-CTF-2023 crypto rev
 date: 2023-11-27
 comments: false
 ---

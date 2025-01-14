@@ -4,7 +4,7 @@ category: Hackappatoi-CTF-2023
 chall_description:
 points: 310
 solves: N/A
-tags: misc misc/pyjail misc/ruby-jail
+tags: Hackappatoi-CTF-2023 misc misc/pyjail misc/ruby-jail
 date: 2023-12-10
 comments: false
 ---

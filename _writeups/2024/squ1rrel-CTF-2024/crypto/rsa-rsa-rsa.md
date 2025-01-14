@@ -4,7 +4,7 @@ category: squ1rrel-CTF-2024
 chall_description:
 points: 182
 solves: 170
-tags: crypto crypto/rsa crypto/hastad-broadcast-attack
+tags: squ1rrel-CTF-2024 crypto crypto/rsa crypto/hastad-broadcast-attack
 date: 2024-4-28
 comments: false
 ---

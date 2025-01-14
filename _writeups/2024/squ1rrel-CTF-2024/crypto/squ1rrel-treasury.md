@@ -4,7 +4,7 @@ category: squ1rrel-CTF-2024
 chall_description:
 points: 448
 solves: 36
-tags: crypto crypto/aes crypto/cbc
+tags: squ1rrel-CTF-2024 crypto crypto/aes crypto/cbc
 date: 2024-4-28
 comments: false
 ---

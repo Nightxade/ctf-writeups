@@ -4,7 +4,7 @@ category: BCA-CTF-2024
 chall_description:
 points: 100
 solves: 224
-tags: crypto crypto/rsa crypto/hastad-broadcast-attack
+tags: BCA-CTF-2024 crypto crypto/rsa crypto/hastad-broadcast-attack
 date: 2024-06-12
 comments: false
 ---

@@ -4,7 +4,7 @@ category: UofT-CTF-2024
 chall_description:
 points: 100
 solves: 314
-tags: osint osint/iot osint/reverse-image-search
+tags: UofT-CTF-2024 osint osint/iot osint/reverse-image-search
 date: 2024-1-15
 comments: false
 ---

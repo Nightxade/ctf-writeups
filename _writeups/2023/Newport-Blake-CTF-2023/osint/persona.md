@@ -4,7 +4,7 @@ category: Newport-Blake-CTF-2023
 chall_description: https://i.imgur.com/QZ50fmO.png
 points: 261
 solves: 150
-tags: osint osint/wayback-machine
+tags: Newport-Blake-CTF-2023 osint osint/wayback-machine
 date: 2023-12-4
 comments: false
 ---

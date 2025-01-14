@@ -4,7 +4,7 @@ category: UofT-CTF-2024
 chall_description:
 points: 324
 solves: 167
-tags: crypto crypto/rsa
+tags: UofT-CTF-2024 crypto crypto/rsa
 date: 2024-1-15
 comments: false
 ---

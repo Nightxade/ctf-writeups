@@ -4,7 +4,7 @@ category: Texsaw-CTF-2024
 chall_description:
 points: 200
 solves: -1
-tags: misc misc/pyjail
+tags: Texsaw-CTF-2024 misc misc/pyjail
 date: 2024-3-25
 comments: false
 ---

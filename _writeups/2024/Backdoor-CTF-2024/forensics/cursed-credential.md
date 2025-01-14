@@ -4,7 +4,7 @@ category: Backdoor-CTF-2024
 chall_description: 
 points: 100
 solves: 46
-tags: forensics forensics/password-cracking forensics/hashcat forensics/rockyou
+tags: Backdoor-CTF-2024 forensics forensics/password-cracking forensics/hashcat forensics/rockyou
 date: 2024-12-24
 comments: false
 ---

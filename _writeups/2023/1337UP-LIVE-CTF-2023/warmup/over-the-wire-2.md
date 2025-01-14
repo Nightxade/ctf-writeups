@@ -4,7 +4,7 @@ category: 1337UP-LIVE-CTF-2023
 chall_description: https://i.imgur.com/RNY73lQ.png
 points: 50
 solves: 166
-tags: forensics forensics/network forensics/wireshark forensics/stego forensics/lsb
+tags: 1337UP-LIVE-CTF-2023 forensics forensics/network forensics/wireshark forensics/stego forensics/lsb
 date: 2023-11-27
 comments: false
 ---

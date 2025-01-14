@@ -4,7 +4,7 @@ category: Iris-CTF-2024
 chall_description:
 points: 435
 solves: 38
-tags: misc misc/reverse-audio-search
+tags: Iris-CTF-2024 misc misc/reverse-audio-search
 date: 2024-1-7
 comments: false
 ---

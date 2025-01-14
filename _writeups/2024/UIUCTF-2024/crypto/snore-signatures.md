@@ -4,7 +4,7 @@ category: UIUCTF-2024
 chall_description:
 points: 416
 solves: 122
-tags: crypto crypto/schnorr-signature crypto/forgery
+tags: UIUCTF-2024 crypto crypto/schnorr-signature crypto/forgery
 date: 2024-07-02
 comments: false
 ---

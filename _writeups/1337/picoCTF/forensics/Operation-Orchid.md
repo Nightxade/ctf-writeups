@@ -4,7 +4,7 @@ category: picoCTF
 chall_description: https://i.imgur.com/r8G7mVS.png
 points: 400
 solves: 4379
-tags: forensics forensics/disk forensics/openssl
+tags: picoCTF forensics forensics/disk forensics/openssl
 date: 1337-01-01
 comments: false
 ---

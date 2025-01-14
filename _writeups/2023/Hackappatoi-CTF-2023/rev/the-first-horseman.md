@@ -4,7 +4,7 @@ category: Hackappatoi-CTF-2023
 chall_description:
 points: 50
 solves: N/A
-tags: rev rev/pyc rev/rot13
+tags: Hackappatoi-CTF-2023 rev rev/pyc rev/rot13
 date: 2023-12-10
 comments: false
 ---

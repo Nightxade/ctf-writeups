@@ -4,7 +4,7 @@ category: Cyber-Cooperative-CTF-2023
 chall_description:
 points: 100
 solves: 299
-tags: pwn pwn/buffer-overflow pwn/segfault
+tags: Cyber-Cooperative-CTF-2023 pwn pwn/buffer-overflow pwn/segfault
 date: 2023-12-19
 comments: false
 ---

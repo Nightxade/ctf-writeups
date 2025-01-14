@@ -4,7 +4,7 @@ category: 1337UP-LIVE-CTF-2023
 chall_description: https://i.imgur.com/gf0Chx2.png
 points: 50
 solves: 398
-tags: crypto crypto/encoding crypto/base32 crypto/base64 crypto/hex crypto/morse
+tags: 1337UP-LIVE-CTF-2023 crypto crypto/encoding crypto/base32 crypto/base64 crypto/hex crypto/morse
 date: 2023-11-27
 comments: false
 ---

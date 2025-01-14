@@ -4,7 +4,7 @@ category: Texsaw-CTF-2024
 chall_description:
 points: 50
 solves: -1
-tags: crypto crypto/rgb
+tags: Texsaw-CTF-2024 crypto crypto/rgb
 date: 2024-3-25
 comments: false
 ---

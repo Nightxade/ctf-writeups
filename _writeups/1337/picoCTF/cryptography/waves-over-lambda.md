@@ -4,7 +4,7 @@ category: picoCTF
 chall_description: https://i.imgur.com/Qvc9ko7.png
 points: 300
 solves: 3349
-tags: crypto crypto/monoalphabetic-substitution
+tags: picoCTF crypto crypto/monoalphabetic-substitution
 date: 1337-01-01
 comments: false
 ---

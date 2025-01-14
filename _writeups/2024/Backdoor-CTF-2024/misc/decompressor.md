@@ -4,7 +4,7 @@ category: Backdoor-CTF-2024
 chall_description: 
 points: 453
 solves: 12
-tags: misc misc/compression misc/huffman-coding
+tags: Backdoor-CTF-2024 misc misc/compression misc/huffman-coding
 date: 2024-12-24
 comments: false
 ---

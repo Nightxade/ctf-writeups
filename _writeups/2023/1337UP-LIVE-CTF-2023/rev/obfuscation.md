@@ -4,7 +4,7 @@ category: 1337UP-LIVE-CTF-2023
 chall_description: https://i.imgur.com/phxzWpd.png
 points: 100
 solves: 213
-tags: rev rev/obfuscation rev/xor
+tags: 1337UP-LIVE-CTF-2023 rev rev/obfuscation rev/xor
 date: 2023-11-27
 comments: false
 ---

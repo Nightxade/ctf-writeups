@@ -4,7 +4,7 @@ category: Jersey-CTF-IV-2024
 chall_description:
 points: 990
 solves: 28
-tags: forensics forensics/network forensics/wireshark forensics/tcp forensics/modbus
+tags: Jersey-CTF-IV-2024 forensics forensics/network forensics/wireshark forensics/tcp forensics/modbus
 date: 2024-3-25
 comments: false
 ---

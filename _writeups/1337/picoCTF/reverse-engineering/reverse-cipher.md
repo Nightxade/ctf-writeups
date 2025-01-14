@@ -4,7 +4,7 @@ category: picoCTF
 chall_description: https://i.imgur.com/fijgEKe.png
 points: 300
 solves: 678
-tags: rev
+tags: picoCTF rev
 date: 1337-01-01
 comments: false
 ---

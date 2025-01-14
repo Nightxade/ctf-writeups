@@ -4,7 +4,7 @@ category: Cyber-Cooperative-CTF-2023
 chall_description:
 points: 200
 solves: 142
-tags: rev
+tags: Cyber-Cooperative-CTF-2023 rev
 date: 2023-12-19
 comments: false
 ---

@@ -4,7 +4,7 @@ category: UofT-CTF-2024
 chall_description:
 points: 358
 solves: 150
-tags: forensics forensics/microsoft-office
+tags: UofT-CTF-2024 forensics forensics/microsoft-office
 date: 2024-1-15
 comments: false
 ---

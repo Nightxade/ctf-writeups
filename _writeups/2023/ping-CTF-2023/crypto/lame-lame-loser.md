@@ -4,7 +4,7 @@ category: ping-CTF-2023
 chall_description:
 points: 50
 solves: 58
-tags: crypto crypto/lll
+tags: ping-CTF-2023 crypto crypto/lll
 date: 2023-12-11
 comments: false
 ---

@@ -4,7 +4,7 @@ category: UofT-CTF-2025
 chall_description: 
 points: 100
 solves: 264
-tags: pwn pwn/buffer-overflow pwn/ret2win
+tags: UofT-CTF-2025 pwn pwn/buffer-overflow pwn/ret2win
 date: 2025-1-12
 comments: false
 ---

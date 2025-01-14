@@ -4,7 +4,7 @@ category: Wolv-CTF-2024
 chall_description:
 points: 350
 solves: 47
-tags: crypto crypto/hash crypto/sha1 crypto/length-extension-attack
+tags: Wolv-CTF-2024 crypto crypto/hash crypto/sha1 crypto/length-extension-attack
 date: 2024-3-19
 comments: false
 ---

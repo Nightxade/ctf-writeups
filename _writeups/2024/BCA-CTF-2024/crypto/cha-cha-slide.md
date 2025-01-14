@@ -4,7 +4,7 @@ category: BCA-CTF-2024
 chall_description:
 points: 100
 solves: 134
-tags: crypto crypto/chacha20
+tags: BCA-CTF-2024 crypto crypto/chacha20
 date: 2024-06-12
 comments: false
 ---

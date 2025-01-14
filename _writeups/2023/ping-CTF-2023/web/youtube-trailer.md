@@ -4,7 +4,7 @@ category: ping-CTF-2023
 chall_description:
 points: 50
 solves: 177
-tags: web web/curl
+tags: ping-CTF-2023 web web/curl
 date: 2023-12-11
 comments: false
 ---

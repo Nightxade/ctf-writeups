@@ -4,7 +4,7 @@ category: picoCTF
 chall_description: https://i.imgur.com/lIG6hA2.png
 points: 200
 solves: 2730
-tags: crypto crypto/rsa
+tags: picoCTF crypto crypto/rsa
 date: 1337-01-01
 comments: false
 ---

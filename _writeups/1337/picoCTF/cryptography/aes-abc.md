@@ -4,7 +4,7 @@ category: picoCTF
 chall_description: https://i.imgur.com/3wn4izQ.png
 points: 400
 solves: 1243
-tags: crypto crypto/aes
+tags: picoCTF crypto crypto/aes
 date: 1337-01-01
 comments: false
 ---

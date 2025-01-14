@@ -4,7 +4,7 @@ category: Iris-CTF-2024
 chall_description:
 points: 50
 solves: 401
-tags: osint osint/reverse-image-search
+tags: Iris-CTF-2024 osint osint/reverse-image-search
 date: 2024-1-7
 comments: false
 ---

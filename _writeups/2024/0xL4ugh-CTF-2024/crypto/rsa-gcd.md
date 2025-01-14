@@ -4,7 +4,7 @@ category: 0xL4ugh-CTF-2024
 chall_description: 
 points: 50
 solves: 72
-tags: crypto crypto/rsa crypto/gcd
+tags: 0xL4ugh-CTF-2024 crypto crypto/rsa crypto/gcd
 date: 2024-2-10
 comments: false
 ---

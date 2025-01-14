@@ -4,7 +4,7 @@ category: Vishwa-CTF-2024
 chall_description:
 points: 606
 solves: 39
-tags: crypto crypto/brute-force
+tags: Vishwa-CTF-2024 crypto crypto/brute-force
 date: 2024-3-3
 comments: false
 ---

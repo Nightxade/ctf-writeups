@@ -22,7 +22,6 @@ for year in os.listdir(PATH):
                 txt = open(writeup_path, 'rb').read().split(b'\n')
                 tag_i = list(filter(lambda a: b'tags: ' == a[1][:6], enumerate(txt)))[0][0]
                 txt[tag_i] = b'tags: ' + ctf.encode() + b' ' + txt[tag_i][6:]
-                # txt_w = open(writeup_path, 'wb')
-                # txt_w.write(b'\n'.join(txt))
-                # txt_w.close()
-                print(txt[tag_i])
+                txt_w = open(writeup_path, 'wb')
+                txt_w.write(b'\n'.join(txt))
+                txt_w.close()

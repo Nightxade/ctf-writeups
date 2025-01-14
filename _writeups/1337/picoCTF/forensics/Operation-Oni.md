@@ -4,7 +4,7 @@ category: picoCTF
 chall_description: https://i.imgur.com/4W3CcYR.png
 points: 300
 solves: 2790
-tags: forensics forensics/disk forensics/permissions
+tags: picoCTF forensics forensics/disk forensics/permissions
 date: 1337-01-01
 comments: false
 ---

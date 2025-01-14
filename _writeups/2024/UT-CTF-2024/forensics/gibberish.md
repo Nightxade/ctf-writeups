@@ -4,7 +4,7 @@ category: UT-CTF-2024
 chall_description:
 points: 987
 solves: 31
-tags: forensics forensics/network forensics/stenography
+tags: UT-CTF-2024 forensics forensics/network forensics/stenography
 date: 2024-4-1
 comments: false
 ---

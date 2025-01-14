@@ -4,7 +4,7 @@ category: picoCTF
 chall_description: https://i.imgur.com/pLRnscS.png
 points: 250
 solves: 4165
-tags: forensics forensics/unicode forensics/binary
+tags: picoCTF forensics forensics/unicode forensics/binary
 date: 1337-01-01
 comments: false
 ---

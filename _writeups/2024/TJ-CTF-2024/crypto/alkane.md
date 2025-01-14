@@ -4,7 +4,7 @@ category: TJ-CTF-2024
 chall_description:
 points: 209
 solves: 28
-tags: crypto crypto/matrix
+tags: TJ-CTF-2024 crypto crypto/matrix
 date: 2024-5-19
 comments: false
 ---

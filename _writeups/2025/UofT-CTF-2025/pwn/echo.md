@@ -4,7 +4,7 @@ category: UofT-CTF-2025
 chall_description: 
 points: 388
 solves: 54
-tags: pwn pwn/buffer-overflow pwn/format-string pwn/got-overwrite
+tags: UofT-CTF-2025 pwn pwn/buffer-overflow pwn/format-string pwn/got-overwrite
 date: 2025-1-12
 comments: false
 ---

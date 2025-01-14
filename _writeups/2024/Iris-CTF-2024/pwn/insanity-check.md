@@ -4,7 +4,7 @@ category: Iris-CTF-2024
 chall_description:
 points: 50
 solves: 254
-tags: pwn pwn/buffer-overflow pwn/ret2win
+tags: Iris-CTF-2024 pwn pwn/buffer-overflow pwn/ret2win
 date: 2024-1-7
 comments: false
 ---

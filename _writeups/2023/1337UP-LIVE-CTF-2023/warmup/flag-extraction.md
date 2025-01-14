@@ -4,7 +4,7 @@ category: 1337UP-LIVE-CTF-2023
 chall_description: https://i.imgur.com/fFTBKl5.png
 points: 50
 solves: 411
-tags: forensics forensics/rar forensics/zip forensics/binwalk
+tags: 1337UP-LIVE-CTF-2023 forensics forensics/rar forensics/zip forensics/binwalk
 date: 2023-11-27
 comments: false
 ---

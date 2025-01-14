@@ -4,7 +4,7 @@ category: UIUCTF-2024
 chall_description:
 points: 322
 solves: 222
-tags: crypto crypto/rsa crypto/gcd
+tags: UIUCTF-2024 crypto crypto/rsa crypto/gcd
 date: 2024-07-02
 comments: false
 ---

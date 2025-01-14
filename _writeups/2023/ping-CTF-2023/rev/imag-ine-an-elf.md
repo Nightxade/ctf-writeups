@@ -4,7 +4,7 @@ category: ping-CTF-2023
 chall_description:
 points: 170
 solves: 31
-tags: rev rev/lsb
+tags: ping-CTF-2023 rev rev/lsb
 date: 2023-12-11
 comments: false
 ---

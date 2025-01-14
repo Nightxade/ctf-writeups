@@ -4,7 +4,7 @@ category: BCA-CTF-2024
 chall_description:
 points: 150
 solves: 46
-tags: crypto crypto/rsa crypto/branch-and-prune
+tags: BCA-CTF-2024 crypto crypto/rsa crypto/branch-and-prune
 date: 2024-06-12
 comments: false
 ---

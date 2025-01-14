@@ -4,7 +4,7 @@ category: TJ-CTF-2024
 chall_description:
 points: 134
 solves: 86
-tags: crypto crypto/rsa
+tags: TJ-CTF-2024 crypto crypto/rsa
 date: 2024-5-19
 comments: false
 ---

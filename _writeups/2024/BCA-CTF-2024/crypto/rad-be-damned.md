@@ -4,7 +4,7 @@ category: BCA-CTF-2024
 chall_description:
 points: 150
 solves: 100
-tags: crypto crypto/error-checking
+tags: BCA-CTF-2024 crypto crypto/error-checking
 date: 2024-06-12
 comments: false
 ---

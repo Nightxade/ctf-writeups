@@ -4,7 +4,7 @@ category: Newport-Blake-CTF-2023
 chall_description: https://i.imgur.com/45JeQG3.png
 points: 401
 solves: 73
-tags: osint osint/babel
+tags: Newport-Blake-CTF-2023 osint osint/babel
 date: 2023-12-4
 comments: false
 ---

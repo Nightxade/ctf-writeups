@@ -4,7 +4,7 @@ category: UMD-CTF-2024
 chall_description:
 points: 484
 solves: 20
-tags: crypto crypto/des crypto/3des crypto/padding-oracle
+tags: UMD-CTF-2024 crypto crypto/des crypto/3des crypto/padding-oracle
 date: 2024-4-28
 comments: false
 ---

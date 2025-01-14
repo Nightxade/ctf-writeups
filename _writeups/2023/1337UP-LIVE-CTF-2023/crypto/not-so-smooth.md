@@ -4,7 +4,7 @@ category: 1337UP-LIVE-CTF-2023
 chall_description: https://i.imgur.com/RrFt3ll.png
 points: 408
 solves: 49
-tags: crypto crypto/xor crypto/modular-arithmetic
+tags: 1337UP-LIVE-CTF-2023 crypto crypto/xor crypto/modular-arithmetic
 date: 2023-11-27
 comments: false
 ---

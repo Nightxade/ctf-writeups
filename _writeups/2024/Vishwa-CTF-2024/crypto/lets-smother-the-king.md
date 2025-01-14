@@ -4,7 +4,7 @@ category: Vishwa-CTF-2024
 chall_description:
 points: 300
 solves: 79
-tags: crypto crypto/esoteric-language
+tags: Vishwa-CTF-2024 crypto crypto/esoteric-language
 date: 2024-3-3
 comments: false
 ---

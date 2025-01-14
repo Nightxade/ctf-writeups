@@ -4,7 +4,7 @@ category: UT-CTF-2024
 chall_description:
 points: 772
 solves: 150
-tags: crypto crypto/math
+tags: UT-CTF-2024 crypto crypto/math
 date: 2024-4-1
 comments: false
 ---

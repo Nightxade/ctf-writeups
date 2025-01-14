@@ -4,7 +4,7 @@ category: Wolv-CTF-2024
 chall_description:
 points: 100
 solves: 207
-tags: crypto crypto/random
+tags: Wolv-CTF-2024 crypto crypto/random
 date: 2024-3-19
 comments: false
 ---

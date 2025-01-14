@@ -4,7 +4,7 @@ category: UofT-CTF-2024
 chall_description:
 points: 442
 solves: 97
-tags: crypto crypto/ecc crypto/smarts-attack
+tags: UofT-CTF-2024 crypto crypto/ecc crypto/smarts-attack
 date: 2024-1-15
 comments: false
 ---

@@ -4,7 +4,7 @@ category: Newport-Blake-CTF-2023
 chall_description: https://i.imgur.com/O74FGE5.png
 points: 241
 solves: 162
-tags: web web/SQLi web/sql-union
+tags: Newport-Blake-CTF-2023 web web/SQLi web/sql-union
 date: 2023-12-4
 comments: false
 ---

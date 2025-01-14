@@ -4,7 +4,7 @@ category: ping-CTF-2023
 chall_description:
 points: 50
 solves: 59
-tags: crypto crypto/caesar
+tags: ping-CTF-2023 crypto crypto/caesar
 date: 2023-12-11
 comments: false
 ---

@@ -4,7 +4,7 @@ category: UIUCTF-2024
 chall_description:
 points: 246
 solves: 298
-tags: crypto
+tags: UIUCTF-2024 crypto
 date: 2024-07-02
 comments: false
 ---

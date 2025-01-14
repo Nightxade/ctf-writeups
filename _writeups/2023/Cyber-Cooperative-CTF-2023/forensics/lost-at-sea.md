@@ -4,7 +4,7 @@ category: Cyber-Cooperative-CTF-2023
 chall_description:
 points: 100
 solves: 278
-tags: forensics forensics/wireshark
+tags: Cyber-Cooperative-CTF-2023 forensics forensics/wireshark
 date: 2023-12-19
 comments: false
 ---

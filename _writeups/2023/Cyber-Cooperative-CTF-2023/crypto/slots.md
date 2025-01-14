@@ -4,7 +4,7 @@ category: Cyber-Cooperative-CTF-2023
 chall_description:
 points: 250
 solves: 121
-tags: crypto crypto/randcrack
+tags: Cyber-Cooperative-CTF-2023 crypto crypto/randcrack
 date: 2023-12-19
 comments: false
 ---

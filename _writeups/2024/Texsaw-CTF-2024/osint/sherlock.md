@@ -4,7 +4,7 @@ category: Texsaw-CTF-2024
 chall_description:
 points: 100
 solves: -1
-tags: osint osint/vigenere
+tags: Texsaw-CTF-2024 osint osint/vigenere
 date: 2024-3-25
 comments: false
 ---

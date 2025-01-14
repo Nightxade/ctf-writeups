@@ -4,7 +4,7 @@ category: UofT-CTF-2025
 chall_description: 
 points: 477
 solves: 25
-tags: pwn pwn/out-of-bounds pwn/write-what-where
+tags: UofT-CTF-2025 pwn pwn/out-of-bounds pwn/write-what-where
 date: 2025-1-12
 comments: false
 ---

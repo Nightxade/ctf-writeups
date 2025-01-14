@@ -4,7 +4,7 @@ category: Jersey-CTF-IV-2024
 chall_description:
 points: 1000
 solves: 1
-tags: osint
+tags: Jersey-CTF-IV-2024 osint
 date: 2024-3-25
 comments: false
 ---

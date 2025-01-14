@@ -4,7 +4,7 @@ category: UIUCTF-2024
 chall_description:
 points: 431
 solves: 105
-tags: crypto crypto/carmichael crypto/dlp
+tags: UIUCTF-2024 crypto crypto/carmichael crypto/dlp
 date: 2024-07-02
 comments: false
 ---

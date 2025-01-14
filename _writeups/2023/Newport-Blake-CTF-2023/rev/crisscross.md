@@ -4,7 +4,7 @@ category: Newport-Blake-CTF-2023
 chall_description: https://i.imgur.com/j3GuNaw.png
 points: 446
 solves: 45
-tags: rev rev/bits
+tags: Newport-Blake-CTF-2023 rev rev/bits
 date: 2023-12-4
 comments: false
 ---

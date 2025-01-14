@@ -4,7 +4,7 @@ category: Vishwa-CTF-2024
 chall_description:
 points: 300
 solves: 96
-tags: crypto
+tags: Vishwa-CTF-2024 crypto
 date: 2024-3-3
 comments: false
 ---

@@ -4,7 +4,7 @@ category: Dice-CTF-Quals-2024
 chall_description: 
 points: 127
 solves: 107
-tags: misc misc/jail misc/zsh
+tags: Dice-CTF-Quals-2024 misc misc/jail misc/zsh
 date: 2024-2-4
 comments: false
 ---

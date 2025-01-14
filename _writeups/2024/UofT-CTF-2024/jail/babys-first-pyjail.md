@@ -4,7 +4,7 @@ category: UofT-CTF-2024
 chall_description:
 points: 100
 solves: 295
-tags: misc misc/pyjail misc/blacklist
+tags: UofT-CTF-2024 misc misc/pyjail misc/blacklist
 date: 2024-1-15
 comments: false
 ---

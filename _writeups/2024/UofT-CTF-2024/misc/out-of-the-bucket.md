@@ -4,7 +4,7 @@ category: UofT-CTF-2024
 chall_description:
 points: 100
 solves: 506
-tags: misc misc/Google-storage
+tags: UofT-CTF-2024 misc misc/Google-storage
 date: 2024-1-15
 comments: false
 ---

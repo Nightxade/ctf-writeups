@@ -4,7 +4,7 @@ category: Iris-CTF-2024
 chall_description:
 points: 50
 solves: 282
-tags: rev rev/go
+tags: Iris-CTF-2024 rev rev/go
 date: 2024-1-7
 comments: false
 ---
