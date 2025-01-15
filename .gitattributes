@@ -1,1 +1,8 @@
-*.md text diff=markdown
+* text=auto eol=lf
+
+*.md text eol=lf
+*.txt text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.py text eol=lf
