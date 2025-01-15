@@ -19,12 +19,13 @@ for year in os.listdir(PATH):
                 txt_w = open(category_path, 'wb')
                 txt_w.write(txt)
                 txt_w.close()
+                continue
 
 
-            # for writeup in os.listdir(category_path):
-            #     writeup_path = os.path.join(category_path, writeup)
+            for writeup in os.listdir(category_path):
+                writeup_path = os.path.join(category_path, writeup)
 
-            #     txt = open(writeup_path, 'rb').read().replace(b'\r\n', b'\n')
-            #     txt_w = open(writeup_path, 'wb')
-            #     txt_w.write(txt)
-            #     txt_w.close()
+                txt = open(writeup_path, 'rb').read().replace(b'\r\n', b'\n')
+                txt_w = open(writeup_path, 'wb')
+                txt_w.write(txt)
+                txt_w.close()
